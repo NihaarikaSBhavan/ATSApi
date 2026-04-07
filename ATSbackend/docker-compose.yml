@@ -1,0 +1,45 @@
+services:
+
+  api:
+    build: .
+    container_name: ats-api
+    expose:
+      - "8000"
+    volumes:
+      # Persist trained model files so redeployment doesn't lose them
+      - model_data:/app/backend/model
+      # Persist HuggingFace model cache between restarts
+      - hf_cache:/root/.cache/huggingface
+    environment:
+      - FORCE_REGEX=${FORCE_REGEX:-0}
+      - MIN_FREE_MB=${MIN_FREE_MB:-600}
+      - SLM_LOAD_TIMEOUT=${SLM_LOAD_TIMEOUT:-90}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  nginx:
+    image: nginx:alpine
+    container_name: ats-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      # SSL certificates (populated by certbot)
+      - certbot_certs:/etc/letsencrypt:ro
+      - certbot_www:/var/www/certbot:ro
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  model_data:
+  hf_cache:
+  certbot_certs:
+  certbot_www:

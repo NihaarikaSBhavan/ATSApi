@@ -1,0 +1,4436 @@
+resume_text,job_description,domain,matched_skills,missing_skills,inferred_skills,semantic_similarity_score,keyword_overlap_score,final_score,match_label
+"James O'Brien is a 8-year experienced Registered Nurse based in Singapore. Throughout their career they have developed strong expertise in vital signs, patient education, telemedicine, patient care, phlebotomy, electronic health records, medical terminology, teamwork, care coordination, medical coding, infection control. Managed a caseload of 19 patients per shift, achieving 92% patient satisfaction scores. They hold a M.Sc degree and are known for delivering results in fast-paced environments.","We are a digital health company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Provide direct patient care and clinical assessments
+• Administer medications and treatments per protocols
+• Ensure compliance with healthcare regulations
+• Maintain accurate patient records
+
+Requirements:
+• patient education
+• telemedicine
+• infection control
+• electronic health records
+• vital signs
+• time management
+• phlebotomy
+• medical coding
+• patient monitoring
+• attention to detail
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['care coordination', 'infection control', 'patient care', 'medical coding', 'telemedicine', 'patient education', 'vital signs', 'electronic health records', 'phlebotomy']",[],"['stress management', 'diagnostic imaging', 'hipaa compliance']",0.866,0.613,93.6,Strong
+"Fatima Al-Hassan
+Sydney, Australia | Warehouse Manager
+
+EXPERIENCE (1 years)
+Warehouse Manager — Various Companies
+• fleet management
+• last mile delivery
+• sap
+• warehouse operations
+• coordination
+• kpi tracking
+• 3pl coordination
+• Optimised delivery routes reducing fuel costs by 20% and improving on-time delivery to 96%.
+
+EDUCATION
+B.Com — University of Delhi
+
+SKILLS
+• fleet management
+• last mile delivery
+• sap
+• warehouse operations
+• coordination
+• kpi tracking
+• 3pl coordination","We are a global 3PL provider looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Resolve supply chain disruptions
+• Monitor inventory levels and demand forecasts
+• Manage end-to-end supply chain operations
+• Coordinate with 3PL providers
+
+Requirements:
+• freight forwarding
+• vendor management
+• customs clearance
+• time management
+• incoterms
+• communication
+• coordination
+• adaptability
+• cross-docking
+• problem solving
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,['coordination'],"['incoterms', 'adaptability', 'cross-docking', 'transportation management system', 'problem solving', 'time management', 'freight forwarding', 'communication', 'vendor management', 'customs clearance']",['route optimization'],0.097,0.111,11.9,Poor
+"Aisha Patel | Singapore
+Role: Construction Manager | Experience: 6 years
+
+About: 6-year construction manager with expertise in safety compliance, communication, osha.
+
+Key Skills:
+• safety compliance
+• communication
+• osha
+
+Notable Achievement: Delivered commercial project on time and 14% under budget.
+
+Education: B.Com","We are a leading civil contractor looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+• Manage project delivery from planning to handover
+• Monitor budgets, schedules and quality
+
+Requirements:
+• safety compliance
+• scheduling
+• contract management
+• quantity surveying
+• time management
+• problem solving
+• negotiation
+• site management
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,['safety compliance'],"['negotiation', 'problem solving', 'contract management', 'time management', 'quantity surveying', 'site management']","['blueprint reading', 'hvac']",0.252,0.098,19.4,Poor
+"Aisha Patel is a 12-year experienced Marketing Manager based in Singapore. Throughout their career they have developed strong expertise in digital marketing, sales strategy, creativity, adaptability, b2c sales, communication, market research, hubspot, sem, resilience, churn reduction. Grew pipeline by 22% YoY through targeted outbound campaigns. They hold a M.Sc degree and are known for delivering results in fast-paced environments.","We are a digital agency looking for a Senior professional to join our team.
+
+Responsibilities:
+• Meet and exceed quarterly targets
+• Collaborate with marketing on campaigns
+• Build and manage client relationships
+• Track pipeline and forecast revenue
+
+Requirements:
+• account management
+• creativity
+• sales strategy
+• churn reduction
+• product marketing
+• crm
+• google analytics
+• b2c sales
+• negotiation
+• salesforce
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['sales strategy', 'churn reduction', 'communication', 'b2c sales', 'creativity']","['google analytics', 'relationship building', 'salesforce']","['content marketing', 'pipeline management', 'sem']",0.452,0.346,40.8,Moderate
+"Fatima Al-Hassan | Chicago, IL
+Role: HR Director | Experience: 10 years
+
+About: 10-year hr director with expertise in employee engagement, empathy.
+
+Key Skills:
+• employee engagement
+• empathy
+
+Notable Achievement: Reduced time-to-hire by 31% by redesigning the behavioural interview process.
+
+Education: MBA","We are a tech scaleup looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Partner with managers on workforce planning
+• Drive diversity and inclusion initiatives
+• Lead full-cycle recruitment for assigned business units
+• Administer compensation and benefits programmes
+
+Requirements:
+• workforce planning
+• diversity and inclusion
+• discretion
+• exit interviews
+• hris
+• stakeholder management
+• payroll
+• organizational development
+• compensation and benefits
+• onboarding
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,[],"['compensation and benefits', 'hris', 'discretion', 'organizational skills', 'onboarding', 'employee relations', 'workforce planning', 'conflict resolution', 'exit interviews', 'diversity and inclusion', 'organizational development', 'stakeholder management', 'communication']",['job analysis'],0.07,0.027,5.1,Poor
+"Carlos Ruiz
+London, UK | Process Engineer
+
+EXPERIENCE (12 years)
+Process Engineer — Various Companies
+• statistical process control
+• problem solving
+• sap
+• Implemented lean initiative reducing waste by 27% and improving OEE from 70% to 92%.
+
+EDUCATION
+B.A — TU Berlin
+
+SKILLS
+• statistical process control
+• problem solving
+• sap","We are a precision engineering firm looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Oversee production operations and quality standards
+• Manage supplier relationships
+• Ensure health and safety compliance
+• Drive continuous improvement initiatives
+
+Requirements:
+• erp
+• autocad
+• supply chain
+• cnc machining
+• bom management
+• quality control
+• root cause analysis
+• kaizen
+• attention to detail
+• osha compliance
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,[],"['communication', 'osha compliance', 'erp', 'autocad', 'kaizen', 'bom management', 'quality control', 'root cause analysis']",['safety awareness'],0.002,0.0,5.2,Poor
+"Ravi Krishnan
+Toronto, Canada | Estimator
+
+EXPERIENCE (6 years)
+Estimator — Various Companies
+• problem solving
+• bim
+• cost estimation
+• quantity surveying
+• Delivered residential project on time and 7% under budget.
+
+EDUCATION
+M.Tech — TU Berlin
+
+SKILLS
+• problem solving
+• bim
+• cost estimation
+• quantity surveying","We are a property development company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Coordinate subcontractors and site teams
+• Prepare progress reports for stakeholders
+• Manage project delivery from planning to handover
+• Monitor budgets, schedules and quality
+
+Requirements:
+• structural analysis
+• mechanical systems
+• scheduling
+• cost estimation
+• communication
+• building codes
+• quantity surveying
+• blueprint reading
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['quantity surveying', 'cost estimation']","['structural analysis', 'mechanical systems', 'blueprint reading']","['team coordination', 'risk management']",0.378,0.239,37.3,Moderate
+"David Kim
+Nairobi, Kenya | Backend Developer
+
+EXPERIENCE (3 years)
+Backend Developer — Various Companies
+• pandas
+• terraform
+• django
+• problem solving
+• technical documentation
+• azure
+• react
+• numpy
+• kubernetes
+• mentoring
+• rust
+• Built a real-time microservices platform handling 10K daily requests.
+
+EDUCATION
+MBA — Anna University
+
+SKILLS
+• pandas
+• terraform
+• django
+• problem solving
+• technical documentation
+• azure
+• react
+• numpy
+• kubernetes
+• mentoring
+• rust","We are an AI-first product company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Write clean, well-tested code
+• Collaborate with cross-functional teams on product features
+• Mentor junior engineers
+• Participate in code reviews and technical planning
+
+Requirements:
+• javascript
+• analytical thinking
+• go
+• mongodb
+• numpy
+• pandas
+• pytorch
+• azure
+• node.js
+• fastapi
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['problem solving', 'react', 'numpy', 'azure', 'pandas']","['fastapi', 'javascript', 'node.js', 'mongodb', 'go', 'pytorch']",['rust'],0.471,0.42,35.9,Moderate
+"Elena Popescu
+Chicago, IL | Process Engineer
+
+EXPERIENCE (11 years)
+Process Engineer — Various Companies
+• iso 9001
+• sap
+• erp
+• problem solving
+• inventory management
+• solidworks
+• Implemented lean initiative reducing waste by 18% and improving OEE from 69% to 80%.
+
+EDUCATION
+B.A — TU Berlin
+
+SKILLS
+• iso 9001
+• sap
+• erp
+• problem solving
+• inventory management
+• solidworks","We are a Tier-1 automotive supplier looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage supplier relationships
+• Oversee production operations and quality standards
+• Analyse production data and report KPIs
+• Ensure health and safety compliance
+
+Requirements:
+• erp
+• preventive maintenance
+• osha compliance
+• bom management
+• warehouse management
+• cnc machining
+• autocad
+• safety awareness
+• problem solving
+• root cause analysis
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['inventory management', 'erp', 'problem solving']","['preventive maintenance', 'osha compliance', 'quality control', 'kaizen', 'warehouse management', 'communication', 'autocad', 'root cause analysis', 'bom management']","['process improvement', 'lean manufacturing']",0.262,0.207,23.4,Poor
+"Ravi Krishnan | Sydney, Australia
+Role: Financial Analyst | Experience: 10 years
+
+About: 10-year financial analyst with expertise in variance analysis, accounting, excel, analytical thinking, strategic thinking.
+
+Key Skills:
+• variance analysis
+• accounting
+• excel
+• analytical thinking
+• strategic thinking
+• fixed income
+• presentation skills
+• ifrs
+
+Notable Achievement: Led annual financial close process, reducing reporting time by 21%.
+
+Education: MBA","We are a financial services company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Support budgeting, forecasting and variance analysis
+• Ensure regulatory compliance
+• Collaborate with business units on financial planning
+• Conduct risk assessments
+
+Requirements:
+• reconciliation
+• fixed income
+• gaap
+• stakeholder management
+• excel
+• credit analysis
+• tax preparation
+• bloomberg terminal
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['excel', 'fixed income']","['bloomberg terminal', 'tax preparation', 'stakeholder management', 'reconciliation', 'gaap', 'credit analysis']",[],0.299,0.241,20.8,Poor
+"Tom Nguyen is a 4-year experienced Accountant based in Berlin, Germany. Throughout their career they have developed strong expertise in gaap, tax preparation, audit, attention to detail, problem solving, derivatives, quickbooks, fixed income, financial analysis, presentation skills, risk management. Led quarterly financial close process, reducing reporting time by 32%.
+[Updated: see attached] They hold a B.A degree and are known for delivering results in fast-paced environments.","We are a boutique advisory firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Collaborate with business units on financial planning
+• Support budgeting, forecasting and variance analysis
+• Conduct risk assessments
+• Ensure regulatory compliance
+
+Requirements:
+• cost accounting
+• derivatives
+• audit
+• regulatory compliance
+• analytical thinking
+• dcf analysis
+• fixed income
+• accounting
+• excel
+• budgeting
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['attention to detail', 'presentation skills', 'fixed income', 'audit', 'derivatives']","['accounting', 'variance analysis', 'dcf analysis', 'analytical thinking', 'regulatory compliance']","['p&l management', 'forecasting', 'equity research']",0.504,0.401,43.5,Moderate
+"Tom Nguyen
+Berlin, Germany | Backend Developer
+
+EXPERIENCE (12 years)
+Backend Developer — Various Companies
+• react
+• microservices
+• mlops
+• mentoring
+• scrum
+• aws
+• go
+• python
+• Built a real-time microservices platform handling 100K daily requests.
+
+EDUCATION
+Ph.D — IIT Madras
+
+SKILLS
+• react
+• microservices
+• mlops
+• mentoring
+• scrum
+• aws
+• go
+• python","We are a leading fintech startup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Mentor junior engineers
+• Write clean, well-tested code
+• Design and implement scalable software systems
+• Participate in code reviews and technical planning
+
+Requirements:
+• docker
+• elasticsearch
+• react
+• microservices
+• pandas
+• analytical thinking
+• git
+• gcp
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['react', 'microservices']","['elasticsearch', 'pandas', 'git']","['postgresql', 'aws']",0.323,0.231,44.5,Moderate
+"Fatima Al-Hassan
+Berlin, Germany | Plant Manager
+
+EXPERIENCE (12 years)
+Plant Manager — Various Companies
+• iso 9001
+• problem solving
+• kaizen
+• solidworks
+• six sigma
+• osha compliance
+• capacity planning
+• 5s methodology
+• supply chain
+• Implemented lean initiative reducing waste by 31% and improving OEE from 67% to 86%.
+
+EDUCATION
+Ph.D — Anna University
+
+SKILLS
+• iso 9001
+• problem solving
+• kaizen
+• solidworks
+• six sigma
+• osha compliance
+• capacity planning
+• 5s methodology
+• supply chain","We are a consumer goods manufacturer looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage supplier relationships
+• Drive continuous improvement initiatives
+• Ensure health and safety compliance
+• Oversee production operations and quality standards
+
+Requirements:
+• osha compliance
+• iso 9001
+• continuous improvement mindset
+• 5s methodology
+• erp
+• team leadership
+• root cause analysis
+• kaizen
+• production planning
+• autocad
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['5s methodology', 'six sigma', 'iso 9001', 'supply chain', 'osha compliance', 'kaizen']","['production planning', 'autocad', 'continuous improvement mindset', 'erp', 'team leadership', 'process improvement', 'root cause analysis']",['statistical process control'],0.484,0.457,39.3,Moderate
+"Mei Lin
+Chennai, India | HR Business Partner
+
+EXPERIENCE (11 years)
+HR Business Partner — Various Companies
+• succession planning
+• stakeholder management
+• hris
+• talent acquisition
+• workday
+• labor law
+• employee engagement
+• communication
+• workforce planning
+• exit interviews
+• empathy
+• Reduced time-to-hire by 39% by redesigning the technical interview process.
+
+EDUCATION
+MBA — Birkbeck University
+
+SKILLS
+• succession planning
+• stakeholder management
+• hris
+• talent acquisition
+• workday
+• labor law
+• employee engagement
+• communication
+• workforce planning
+• exit interviews
+• empathy","We are a professional services firm looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Lead full-cycle recruitment for assigned business units
+• Manage employee relations and performance processes
+• Drive diversity and inclusion initiatives
+• Partner with managers on workforce planning
+
+Requirements:
+• payroll
+• organizational skills
+• communication
+• diversity and inclusion
+• compliance
+• stakeholder management
+• conflict resolution
+• background screening
+• hris
+• exit interviews
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['workforce planning', 'communication', 'hris', 'exit interviews', 'stakeholder management']","['background screening', 'payroll', 'diversity and inclusion', 'compliance']","['employee engagement', 'learning and development', 'organizational development']",0.558,0.429,48.3,Moderate
+"James O'Brien | Chicago, IL
+Role: Project Manager | Experience: 11 years
+
+About: 11-year project manager with expertise in cost estimation, quantity surveying, revit, team coordination, blueprint reading.
+
+Key Skills:
+• cost estimation
+• quantity surveying
+• revit
+• team coordination
+• blueprint reading
+• project management
+• autocad
+• hvac
+• subcontractor management
+
+Notable Achievement: Delivered residential project on time and 8% under budget.
+
+Education: B.E","We are an infrastructure firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Prepare progress reports for stakeholders
+• Monitor budgets, schedules and quality
+• Ensure site safety and regulatory compliance
+• Coordinate subcontractors and site teams
+
+Requirements:
+• autocad
+• team coordination
+• risk management
+• hvac
+• blueprint reading
+• cost estimation
+• revit
+• site management
+• communication
+• safety compliance
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['team coordination', 'autocad', 'revit', 'cost estimation', 'hvac', 'blueprint reading']",['communication'],"['osha', 'building codes']",0.877,0.623,81.0,Strong
+"James O'Brien
+Chennai, India | Data Scientist
+
+EXPERIENCE (2 years)
+Data Scientist — Various Companies
+• system design
+• docker
+• graphql
+• django
+• c++
+• tensorflow
+• aws
+• technical documentation
+• azure
+• postgresql
+• Built a real-time microservices platform handling 10K daily requests.
+
+EDUCATION
+B.E — TU Berlin
+
+SKILLS
+• system design
+• docker
+• graphql
+• django
+• c++
+• tensorflow
+• aws
+• technical documentation
+• azure
+• postgresql","We are a fast-growing SaaS company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Mentor junior engineers
+• Collaborate with cross-functional teams on product features
+• Design and implement scalable software systems
+• Participate in code reviews and technical planning
+
+Requirements:
+• scrum
+• azure
+• typescript
+• django
+• javascript
+• technical documentation
+• postgresql
+• docker
+• c++
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['django', 'docker', 'c++', 'technical documentation', 'postgresql', 'azure']","['typescript', 'scrum']","['gcp', 'agile', 'mentoring']",0.984,0.683,76.8,Strong
+"Tom Nguyen | London, UK
+Role: ML Engineer | Experience: 12 years
+
+About: 12-year ml engineer with expertise in analytical thinking, azure, pytorch, numpy, cross-functional collaboration.
+
+Key Skills:
+• analytical thinking
+• azure
+• pytorch
+• numpy
+• cross-functional collaboration
+
+Notable Achievement: Built a scalable microservices platform handling 100K daily requests.
+
+Education: M.Tech","We are a leading fintech startup looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Mentor junior engineers
+• Collaborate with cross-functional teams on product features
+• Participate in code reviews and technical planning
+• Design and implement scalable software systems
+
+Requirements:
+• scikit-learn
+• react
+• sql
+• microservices
+• machine learning
+• agile
+• pytorch
+• cross-functional collaboration
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['pytorch', 'cross-functional collaboration']","['machine learning', 'microservices', 'react', 'sql', 'agile', 'scikit-learn']",['aws'],0.294,0.222,22.2,Poor
+"Elena Popescu
+Toronto, Canada | Project Coordinator
+
+EXPERIENCE (11 years)
+Project Coordinator — Various Companies
+• problem solving
+• coordination
+• stakeholder management
+• microsoft office
+• Coordinated cross-functional project delivering 18% efficiency improvement.
+
+EDUCATION
+M.Tech — University of Toronto
+
+SKILLS
+• problem solving
+• coordination
+• stakeholder management
+• microsoft office","We are a dynamic organisation looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure process compliance
+• Prepare reports and presentations
+• Manage day-to-day operations
+• Coordinate across departments
+
+Requirements:
+• leadership
+• project management
+• critical thinking
+• teamwork
+• microsoft office
+• time management
+• data analysis
+• stakeholder management
+• research
+• process improvement
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",generic,"['stakeholder management', 'microsoft office']","['data analysis', 'research', 'process improvement', 'critical thinking', 'leadership', 'project management', 'time management', 'budgeting', 'teamwork']","['communication', 'problem solving']",0.253,0.187,21.5,Poor
+"Sarah Mitchell | Sydney, Australia
+Role: Legal Analyst | Experience: 2 years
+
+About: 2-year legal analyst with expertise in corporate law, data privacy, employment law, deposition, gdpr.
+
+Key Skills:
+• corporate law
+• data privacy
+• employment law
+• deposition
+• gdpr
+• attention to detail
+• analytical thinking
+• case management
+• communication
+• time management
+• legal writing
+
+Notable Achievement: Reviewed 168 contracts per month, flagging IP risks that saved the company an estimated £177K.
+
+Education: Ph.D","We are a compliance-focused financial institution looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage external counsel relationships
+• Support M&A due diligence processes
+• Advise on regulatory and compliance matters
+• Conduct legal research and prepare briefings
+
+Requirements:
+• data privacy
+• mergers and acquisitions
+• employment law
+• due diligence
+• gdpr
+• intellectual property
+• case management
+• litigation support
+• deposition
+• time management
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['time management', 'gdpr', 'case management', 'deposition', 'data privacy', 'employment law']","['intellectual property', 'mergers and acquisitions', 'due diligence']","['problem solving', 'document review', 'analytical thinking']",0.715,0.58,61.1,Moderate
+"Marcus Webb is a 9-year experienced Instructional Designer based in London, UK. Throughout their career they have developed strong expertise in student assessment, adaptability, stem education, instructional design, google classroom, curriculum development, parent communication, summative assessment. Developed project-based curriculum adopted across 6 schools, improving test scores by 19%. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are an AI-first product company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Write clean, well-tested code
+• Participate in code reviews and technical planning
+• Design and implement scalable software systems
+• Collaborate with cross-functional teams on product features
+
+Requirements:
+• analytical thinking
+• postgresql
+• computer vision
+• mentoring
+• rest api
+• rust
+• deep learning
+• tensorflow
+• redis
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,[],"['analytical thinking', 'postgresql', 'computer vision', 'mentoring', 'rest api', 'rust', 'deep learning', 'tensorflow', 'redis']",[],0.0,0.03,0.0,Poor
+"Tom Nguyen is a 1-year experienced Project Manager based in Singapore. Throughout their career they have developed strong expertise in site management, attention to detail, primavera, contract management, building codes, scheduling, structural analysis. Delivered residential project on time and 8% under budget. They hold a B.A degree and are known for delivering results in fast-paced environments.","We are a property development company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Manage project delivery from planning to handover
+• Monitor budgets, schedules and quality
+• Coordinate subcontractors and site teams
+• Prepare progress reports for stakeholders
+
+Requirements:
+• procurement
+• quantity surveying
+• risk management
+• primavera
+• hvac
+• site management
+• team coordination
+• structural analysis
+• contract management
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['site management', 'contract management', 'primavera', 'structural analysis']","['hvac', 'risk management', 'team coordination']","['subcontractor management', 'negotiation', 'attention to detail']",0.61,0.456,52.2,Moderate
+"Tom Nguyen | Sydney, Australia
+Role: Plant Manager | Experience: 10 years
+
+About: 10-year plant manager with expertise in sap, erp, communication, problem solving, autocad.
+
+Key Skills:
+• sap
+• erp
+• communication
+• problem solving
+• autocad
+• supply chain
+• lean manufacturing
+• quality control
+• osha compliance
+• root cause analysis
+• litigation support
+
+Notable Achievement: Implemented lean initiative reducing waste by 23% and improving OEE from 71% to 86%.
+
+Education: B.Com","We are a Magic Circle law firm looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Support M&A due diligence processes
+• Manage external counsel relationships
+• Conduct legal research and prepare briefings
+• Advise on regulatory and compliance matters
+
+Requirements:
+• persuasion
+• employment law
+• litigation support
+• legal research
+• analytical thinking
+• case management
+• document review
+• time management
+• risk assessment
+• intellectual property
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,['litigation support'],"['persuasion', 'employment law', 'legal research', 'analytical thinking', 'case management', 'document review', 'time management', 'risk assessment', 'intellectual property', 'lexisnexis']",[],0.049,0.005,4.1,Poor
+"Aisha Patel
+London, UK | Operations Lead
+
+EXPERIENCE (10 years)
+Operations Lead — Various Companies
+• last mile delivery
+• vendor management
+• customs clearance
+• attention to detail
+• transportation management system
+• problem solving
+• cross-docking
+• negotiation
+• oracle
+• coordination
+• procurement
+• Optimised delivery routes reducing fuel costs by 18% and improving on-time delivery to 95%.
+
+EDUCATION
+B.A — University of Toronto
+
+SKILLS
+• last mile delivery
+• vendor management
+• customs clearance
+• attention to detail
+• transportation management system
+• problem solving
+• cross-docking
+• negotiation
+• oracle
+• coordination
+• procurement","We are a global 3PL provider looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Monitor inventory levels and demand forecasts
+• Coordinate with 3PL providers
+• Manage end-to-end supply chain operations
+• Resolve supply chain disruptions
+
+Requirements:
+• cross-docking
+• negotiation
+• coordination
+• supply chain management
+• erp
+• attention to detail
+• problem solving
+• procurement
+• oracle
+• freight forwarding
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['problem solving', 'procurement', 'cross-docking', 'negotiation', 'attention to detail', 'coordination', 'oracle']","['supply chain management', 'freight forwarding']","['time management', 'incoterms']",0.991,0.688,83.2,Strong
+"Sarah Mitchell | Chennai, India
+Role: Clinical Coordinator | Experience: 9 years
+
+About: 9-year clinical coordinator with expertise in critical thinking, cpt coding, medical terminology, wound care, documentation.
+
+Key Skills:
+• critical thinking
+• cpt coding
+• medical terminology
+• wound care
+• documentation
+• electronic health records
+• patient monitoring
+• phlebotomy
+• triage
+• ehr
+• teamwork
+• care coordination
+
+Notable Achievement: Managed a caseload of 30 patients per shift, achieving 98% patient satisfaction scores.
+
+Education: B.E","We are a multi-specialty hospital looking for a Senior professional to join our team.
+
+Responsibilities:
+• Administer medications and treatments per protocols
+• Maintain accurate patient records
+• Provide direct patient care and clinical assessments
+• Coordinate with multidisciplinary care teams
+
+Requirements:
+• cpt coding
+• teamwork
+• triage
+• electronic health records
+• documentation
+• medical coding
+• medical terminology
+• diagnostic imaging
+• ehr
+• critical thinking
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['medical coding', 'electronic health records', 'teamwork', 'documentation', 'diagnostic imaging', 'wound care', 'critical thinking', 'patient monitoring', 'medical terminology', 'ehr', 'triage', 'cpt coding']","['time management', 'patient education']","['infection control', 'icd-10', 'vital signs']",0.914,0.856,76.2,Strong
+"Tom Nguyen
+Chennai, India | Paralegal
+
+EXPERIENCE (8 years)
+Paralegal — Various Companies
+• legal research
+• case management
+• employment law
+• problem solving
+• client counseling
+• mergers and acquisitions
+• litigation support
+• deposition
+• corporate law
+• contract review
+• regulatory compliance
+• due diligence
+• Reviewed 72 contracts per month, flagging IP risks that saved the company an estimated £73K.
+
+EDUCATION
+M.Sc — University of Delhi
+
+SKILLS
+• legal research
+• case management
+• employment law
+• problem solving
+• client counseling
+• mergers and acquisitions
+• litigation support
+• deposition
+• corporate law
+• contract review
+• regulatory compliance
+• due diligence","We are a Magic Circle law firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Support M&A due diligence processes
+• Advise on regulatory and compliance matters
+• Manage external counsel relationships
+• Draft, review and negotiate commercial contracts
+
+Requirements:
+• legal research
+• deposition
+• client counseling
+• data privacy
+• employment law
+• regulatory compliance
+• contract review
+• litigation support
+• corporate law
+• persuasion
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['client counseling', 'persuasion', 'deposition', 'employment law', 'regulatory compliance', 'litigation support', 'legal research', 'due diligence', 'data privacy', 'contract review', 'communication', 'corporate law']",[],"['risk assessment', 'attention to detail', 'case management', 'legal writing']",0.979,1.0,87.6,Strong
+"Fatima Al-Hassan
+Nairobi, Kenya | Accountant
+
+EXPERIENCE (3 years)
+Accountant — Various Companies
+• attention to detail
+• sap
+• analytical thinking
+• quickbooks
+• credit analysis
+• budgeting
+• Led quarterly financial close process, reducing reporting time by 22%.
+
+EDUCATION
+Ph.D — University of Toronto
+
+SKILLS
+• attention to detail
+• sap
+• analytical thinking
+• quickbooks
+• credit analysis
+• budgeting","We are a global investment bank looking for a Senior professional to join our team.
+
+Responsibilities:
+• Conduct risk assessments
+• Ensure regulatory compliance
+• Prepare financial statements and management reports
+• Collaborate with business units on financial planning
+
+Requirements:
+• portfolio management
+• problem solving
+• credit analysis
+• sql
+• ifrs
+• fixed income
+• reconciliation
+• stakeholder management
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,['credit analysis'],"['stakeholder management', 'portfolio management', 'ifrs', 'problem solving', 'sql']",[],0.118,0.15,11.6,Poor
+"Marcus Webb | Chennai, India
+Role: Warehouse Manager | Experience: 2 years
+
+About: 2-year warehouse manager with expertise in kpi tracking, freight forwarding, cold chain, customs clearance, 3pl coordination.
+
+Key Skills:
+• kpi tracking
+• freight forwarding
+• cold chain
+• customs clearance
+• 3pl coordination
+• demand forecasting
+
+Notable Achievement: Optimised delivery routes reducing fuel costs by 12% and improving on-time delivery to 99%.
+
+Education: B.E","We are a property development company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Coordinate subcontractors and site teams
+• Manage project delivery from planning to handover
+• Prepare progress reports for stakeholders
+• Ensure site safety and regulatory compliance
+
+Requirements:
+• blueprint reading
+• autocad
+• negotiation
+• building codes
+• problem solving
+• project management
+• risk management
+• safety compliance
+• hvac
+• scheduling
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,[],"['blueprint reading', 'autocad', 'negotiation', 'building codes', 'problem solving', 'project management', 'risk management', 'safety compliance', 'hvac', 'scheduling', 'site management', 'procurement']",[],0.0,0.0,0.0,Poor
+"Priya Sharma is a 6-year experienced Associate Attorney based in Nairobi, Kenya. Throughout their career they have developed strong expertise in legal research, compliance, time management, attention to detail, client counseling, litigation support, negotiation, corporate law, deposition, contract review, regulatory compliance, data privacy. Reviewed 84 contracts per month, flagging IP risks that saved the company an estimated £490K. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are a compliance-focused financial institution looking for a Senior professional to join our team.
+
+Responsibilities:
+• Manage external counsel relationships
+• Advise on regulatory and compliance matters
+• Support M&A due diligence processes
+• Draft, review and negotiate commercial contracts
+
+Requirements:
+• attention to detail
+• westlaw
+• intellectual property
+• risk assessment
+• discovery
+• compliance
+• litigation support
+• deposition
+• legal research
+• negotiation
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['negotiation', 'deposition', 'risk assessment', 'corporate law', 'data privacy', 'legal research', 'time management', 'litigation support', 'attention to detail', 'discovery', 'compliance']","['intellectual property', 'westlaw']",['contract review'],0.833,0.85,71.8,Strong
+"Ravi Krishnan | Nairobi, Kenya
+Role: Instructional Designer | Experience: 8 years
+
+About: 8-year instructional designer with expertise in lms, lesson planning, curriculum development, adaptability, summative assessment.
+
+Key Skills:
+• lms
+• lesson planning
+• curriculum development
+• adaptability
+• summative assessment
+• communication
+• education technology
+• organization
+
+Notable Achievement: Developed STEM curriculum adopted across 6 schools, improving test scores by 13%.
+
+Education: MBA","We are a secondary school looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Maintain accurate records and documentation
+• Communicate regularly with parents and guardians
+• Plan and deliver engaging lessons aligned to curriculum
+• Assess student progress and adapt instruction
+
+Requirements:
+• creativity
+• communication
+• canvas
+• summative assessment
+• cultural sensitivity
+• organization
+• blackboard
+• mentoring
+• special education
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['summative assessment', 'organization', 'communication']","['creativity', 'special education']",['classroom management'],0.355,0.361,36.2,Moderate
+"Marcus Webb
+Chicago, IL | Quality Engineer
+
+EXPERIENCE (2 years)
+Quality Engineer — Various Companies
+• statistical process control
+• attention to detail
+• production planning
+• bom management
+• lean manufacturing
+• kaizen
+• communication
+• six sigma
+• process improvement
+• team leadership
+• autocad
+• osha compliance
+• Implemented lean initiative reducing waste by 25% and improving OEE from 66% to 92%.
+
+EDUCATION
+B.Com — TU Berlin
+
+SKILLS
+• statistical process control
+• attention to detail
+• production planning
+• bom management
+• lean manufacturing
+• kaizen
+• communication
+• six sigma
+• process improvement
+• team leadership
+• autocad
+• osha compliance","We are a precision engineering firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Oversee production operations and quality standards
+• Analyse production data and report KPIs
+• Drive continuous improvement initiatives
+• Ensure health and safety compliance
+
+Requirements:
+• team leadership
+• autocad
+• solidworks
+• process improvement
+• statistical process control
+• warehouse management
+• osha compliance
+• 5s methodology
+• bom management
+• kaizen
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['5s methodology', 'production planning', 'statistical process control', 'attention to detail', 'process improvement', 'kaizen', 'communication', 'six sigma', 'warehouse management', 'solidworks', 'autocad', 'team leadership', 'osha compliance', 'bom management']",[],"['lean manufacturing', 'capacity planning', 'preventive maintenance']",0.978,1.0,83.8,Strong
+"Mei Lin is a 3-year experienced Warehouse Manager based in Nairobi, Kenya. Throughout their career they have developed strong expertise in incoterms, erp, cross-docking, time management, negotiation, 3pl coordination, adaptability, cold chain, hazmat handling, summative assessment. Optimised delivery routes reducing fuel costs by 15% and improving on-time delivery to 94%. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are an international school looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Communicate regularly with parents and guardians
+• Contribute to school-wide improvement initiatives
+• Maintain accurate records and documentation
+• Plan and deliver engaging lessons aligned to curriculum
+
+Requirements:
+• adaptability
+• student assessment
+• summative assessment
+• mentoring
+• canvas
+• parent communication
+• patience
+• curriculum development
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,['summative assessment'],"['adaptability', 'student assessment', 'mentoring', 'canvas', 'parent communication', 'patience', 'curriculum development']",[],0.052,0.059,3.3,Poor
+"James O'Brien | Chicago, IL
+Role: Instructional Designer | Experience: 8 years
+
+About: 8-year instructional designer with expertise in e-learning, summative assessment, communication, education technology, instructional design.
+
+Key Skills:
+• e-learning
+• summative assessment
+• communication
+• education technology
+• instructional design
+• mentoring
+• parent communication
+• special education
+• student assessment
+• formative assessment
+• differentiated instruction
+• google classroom
+
+Notable Achievement: Developed project-based curriculum adopted across 6 schools, improving test scores by 11%.
+
+Education: M.Tech","We are an EdTech company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Plan and deliver engaging lessons aligned to curriculum
+• Contribute to school-wide improvement initiatives
+• Communicate regularly with parents and guardians
+• Assess student progress and adapt instruction
+
+Requirements:
+• e-learning
+• summative assessment
+• communication
+• education technology
+• instructional design
+• mentoring
+• parent communication
+• special education
+• student assessment
+• formative assessment
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['e-learning', 'summative assessment', 'communication', 'education technology', 'instructional design', 'mentoring', 'parent communication', 'special education', 'student assessment', 'formative assessment', 'differentiated instruction']",[],[],0.648,0.84,96.0,Strong
+"Mei Lin | Chicago, IL
+Role: Quantity Surveyor | Experience: 12 years
+
+About: 12-year quantity surveyor with expertise in ms project, cost estimation, team coordination, quality assurance, communication.
+
+Key Skills:
+• ms project
+• cost estimation
+• team coordination
+• quality assurance
+• communication
+• blueprint reading
+• autocad
+• structural analysis
+
+Notable Achievement: Delivered commercial project on time and 8% under budget.
+Ref: 7457/HR
+
+Education: B.E","We are an infrastructure firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Ensure site safety and regulatory compliance
+• Manage project delivery from planning to handover
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+
+Requirements:
+• procurement
+• communication
+• autocad
+• site management
+• primavera
+• revit
+• project management
+• problem solving
+• bim
+• mechanical systems
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['communication', 'autocad']","['primavera', 'procurement', 'project management', 'mechanical systems', 'bim', 'problem solving', 'site management']",[],0.121,0.16,16.9,Poor
+"David Kim
+Singapore | Marketing Manager
+
+EXPERIENCE (8 years)
+Marketing Manager — Various Companies
+• email marketing
+• creativity
+• google analytics
+• b2c sales
+• salesforce
+• a/b testing
+• relationship building
+• active listening
+• content marketing
+• sem
+• seo
+• hubspot
+• Grew pipeline by 44% YoY through targeted outbound campaigns.
+
+EDUCATION
+Ph.D — Birkbeck University
+
+SKILLS
+• email marketing
+• creativity
+• google analytics
+• b2c sales
+• salesforce
+• a/b testing
+• relationship building
+• active listening
+• content marketing
+• sem
+• seo
+• hubspot","We are a digital agency looking for a Senior professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Collaborate with marketing on campaigns
+• Meet and exceed quarterly targets
+• Build and manage client relationships
+
+Requirements:
+• adaptability
+• seo
+• google analytics
+• sales strategy
+• market research
+• hubspot
+• active listening
+• email marketing
+• salesforce
+• relationship building
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['salesforce', 'email marketing', 'hubspot', 'creativity', 'seo', 'relationship building', 'lead generation', 'active listening', 'sales strategy', 'google analytics']","['adaptability', 'market research', 'persuasion']","['b2c sales', 'crm']",0.792,0.76,64.9,Moderate
+"Tom Nguyen
+Chennai, India | Education Coordinator
+
+EXPERIENCE (12 years)
+Education Coordinator — Various Companies
+• patience
+• formative assessment
+• curriculum development
+• e-learning
+• google classroom
+• organization
+• Developed STEM curriculum adopted across 6 schools, improving test scores by 22%.
+
+EDUCATION
+M.Sc — TU Berlin
+
+SKILLS
+• patience
+• formative assessment
+• curriculum development
+• e-learning
+• google classroom
+• organization","We are a secondary school looking for a Senior professional to join our team.
+
+Responsibilities:
+• Maintain accurate records and documentation
+• Communicate regularly with parents and guardians
+• Assess student progress and adapt instruction
+• Plan and deliver engaging lessons aligned to curriculum
+
+Requirements:
+• cultural sensitivity
+• data-driven instruction
+• special education
+• mentoring
+• formative assessment
+• student assessment
+• empathy
+• lms
+• google classroom
+• creativity
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['google classroom', 'formative assessment']","['empathy', 'creativity', 'student assessment', 'data-driven instruction', 'cultural sensitivity', 'mentoring', ""bloom's taxonomy"", 'special education', 'lms']","['e-learning', 'canvas']",0.223,0.169,20.1,Poor
+"Fatima Al-Hassan is a 7-year experienced Backend Developer based in Nairobi, Kenya. Throughout their career they have developed strong expertise in microservices, computer vision, mlops, analytical thinking, scrum, elasticsearch, graphql, python, deep learning. Built a real-time microservices platform handling 100K daily requests. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are a fast-growing SaaS company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Collaborate with cross-functional teams on product features
+• Participate in code reviews and technical planning
+• Design and implement scalable software systems
+• Mentor junior engineers
+
+Requirements:
+• graphql
+• python
+• agile
+• tensorflow
+• microservices
+• mongodb
+• typescript
+• mlops
+• pytorch
+• ci/cd
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['microservices', 'mlops', 'elasticsearch', 'analytical thinking', 'python', 'graphql']","['typescript', 'ci/cd', 'tensorflow', 'mongodb', 'agile', 'pytorch', 'rest api']",['sql'],0.439,0.427,39.6,Moderate
+"James O'Brien is a 6-year experienced School Principal based in Nairobi, Kenya. Throughout their career they have developed strong expertise in creativity, adaptability, lms, mentoring, instructional design, cultural sensitivity. Developed STEM curriculum adopted across 3 schools, improving test scores by 22%. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are an international school looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Plan and deliver engaging lessons aligned to curriculum
+• Communicate regularly with parents and guardians
+• Contribute to school-wide improvement initiatives
+• Assess student progress and adapt instruction
+
+Requirements:
+• creativity
+• student assessment
+• blackboard
+• lms
+• empathy
+• bloom's taxonomy
+• curriculum development
+• cultural sensitivity
+• stem education
+• adaptability
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['creativity', 'cultural sensitivity', 'lms', 'adaptability']","['special education', 'empathy', 'organization']","['formative assessment', 'canvas']",0.435,0.347,39.0,Moderate
+"Aisha Patel is a 4-year experienced Contract Manager based in Singapore. Throughout their career they have developed strong expertise in legal research, compliance, persuasion, intellectual property. Reviewed 164 contracts per month, flagging IP risks that saved the company an estimated £211K. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are an in-house legal team looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Conduct legal research and prepare briefings
+• Support M&A due diligence processes
+• Advise on regulatory and compliance matters
+• Manage external counsel relationships
+
+Requirements:
+• litigation support
+• negotiation
+• corporate law
+• problem solving
+• discretion
+• legal research
+• analytical thinking
+• compliance
+• time management
+• discovery
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['compliance', 'legal research']","['corporate law', 'discovery', 'analytical thinking', 'negotiation', 'problem solving', 'litigation support', 'time management', 'discretion']",[],0.23,0.185,17.1,Poor
+"Carlos Ruiz is a 12-year experienced Account Manager based in Singapore. Throughout their career they have developed strong expertise in churn reduction, communication, market research, creativity. Grew pipeline by 22% YoY through targeted digital campaigns. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are a high-growth B2B SaaS company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Collaborate with marketing on campaigns
+• Build and manage client relationships
+• Track pipeline and forecast revenue
+• Develop and execute sales strategies
+
+Requirements:
+• adaptability
+• churn reduction
+• crm
+• market research
+• relationship building
+• pipeline management
+• account management
+• google analytics
+• persuasion
+• digital marketing
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['churn reduction', 'market research']","['hubspot', 'adaptability', 'digital marketing', 'persuasion', 'crm', 'google analytics', 'account management', 'relationship building', 'pipeline management']","['b2c sales', 'seo']",0.205,0.176,17.2,Poor
+"Fatima Al-Hassan | Toronto, Canada
+Role: School Principal | Experience: 8 years
+
+About: 8-year school principal with expertise in classroom management, special education, differentiated instruction, patience, data-driven instruction.
+
+Key Skills:
+• classroom management
+• special education
+• differentiated instruction
+• patience
+• data-driven instruction
+• canvas
+• blackboard
+• stem education
+• e-learning
+• cultural sensitivity
+• empathy
+• iep development
+
+Notable Achievement: Developed STEM curriculum adopted across 4 schools, improving test scores by 12%.
+
+Education: Ph.D","We are an international school looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Plan and deliver engaging lessons aligned to curriculum
+• Communicate regularly with parents and guardians
+• Maintain accurate records and documentation
+• Assess student progress and adapt instruction
+
+Requirements:
+• empathy
+• iep development
+• summative assessment
+• data-driven instruction
+• differentiated instruction
+• lms
+• patience
+• education technology
+• classroom management
+• special education
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['differentiated instruction', 'iep development', 'classroom management', 'empathy', 'special education', 'patience', 'data-driven instruction']","['education technology', 'summative assessment']","['lesson planning', ""bloom's taxonomy""]",0.936,0.703,82.0,Strong
+"Sarah Mitchell | Toronto, Canada
+Role: Account Manager | Experience: 6 years
+
+About: 6-year account manager with expertise in creativity, a/b testing, negotiation, pipeline management, content marketing.
+
+Key Skills:
+• creativity
+• a/b testing
+• negotiation
+• pipeline management
+• content marketing
+• churn reduction
+• relationship building
+
+Notable Achievement: Grew pipeline by 28% YoY through targeted digital campaigns.
+
+Education: M.Tech","We are a leading retail brand looking for a Senior professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Meet and exceed quarterly targets
+• Build and manage client relationships
+• Collaborate with marketing on campaigns
+
+Requirements:
+• email marketing
+• relationship building
+• hubspot
+• churn reduction
+• persuasion
+• negotiation
+• a/b testing
+• b2c sales
+• seo
+• crm
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['relationship building', 'churn reduction', 'content marketing', 'negotiation', 'a/b testing']","['hubspot', 'seo', 'digital marketing']","['google analytics', 'adaptability']",0.492,0.439,47.0,Moderate
+"David Kim
+Sydney, Australia | ML Engineer
+
+EXPERIENCE (10 years)
+ML Engineer — Various Companies
+• javascript
+• mongodb
+• docker
+• terraform
+• django
+• go
+• tensorflow
+• mlops
+• technical documentation
+• rest api
+• react
+• numpy
+• Built a real-time microservices platform handling 10K daily requests.
+
+EDUCATION
+B.E — Birkbeck University
+
+SKILLS
+• javascript
+• mongodb
+• docker
+• terraform
+• django
+• go
+• tensorflow
+• mlops
+• technical documentation
+• rest api
+• react
+• numpy","We are a leading fintech startup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Collaborate with cross-functional teams on product features
+• Mentor junior engineers
+• Design and implement scalable software systems
+• Participate in code reviews and technical planning
+
+Requirements:
+• sql
+• java
+• docker
+• react
+• django
+• machine learning
+• rust
+• tensorflow
+• go
+• redis
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['go', 'react', 'javascript', 'numpy', 'rust', 'technical documentation', 'tensorflow', 'django', 'docker']",['sql'],['aws'],0.88,0.718,90.2,Strong
+"Mei Lin
+London, UK | Software Engineer
+
+EXPERIENCE (2 years)
+Software Engineer — Various Companies
+• analytical thinking
+• javascript
+• react
+• mentoring
+• machine learning
+• python
+• computer vision
+• typescript
+• aws
+• Built a scalable ML pipeline handling 10K daily requests.
+
+EDUCATION
+B.Com — University of Delhi
+
+SKILLS
+• analytical thinking
+• javascript
+• react
+• mentoring
+• machine learning
+• python
+• computer vision
+• typescript
+• aws","We are a community health centre looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure compliance with healthcare regulations
+• Coordinate with multidisciplinary care teams
+• Provide direct patient care and clinical assessments
+• Maintain accurate patient records
+
+Requirements:
+• medication administration
+• critical thinking
+• care coordination
+• medical terminology
+• infection control
+• triage
+• time management
+• diagnostic imaging
+• patient care
+• clinical assessment
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,[],"['medication administration', 'critical thinking', 'care coordination', 'medical terminology', 'infection control', 'triage', 'time management', 'diagnostic imaging', 'patient care', 'clinical assessment', 'hipaa compliance']",[],0.043,0.012,2.4,Poor
+"James O'Brien
+Chennai, India | Legal Analyst
+
+EXPERIENCE (10 years)
+Legal Analyst — Various Companies
+• discovery
+• due diligence
+• mergers and acquisitions
+• intellectual property
+• Reviewed 132 contracts per month, flagging IP risks that saved the company an estimated £449K.
+
+EDUCATION
+M.Sc — University of Delhi
+
+SKILLS
+• discovery
+• due diligence
+• mergers and acquisitions
+• intellectual property","We are an in-house legal team looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Manage external counsel relationships
+• Support M&A due diligence processes
+• Draft, review and negotiate commercial contracts
+• Advise on regulatory and compliance matters
+
+Requirements:
+• attention to detail
+• data privacy
+• analytical thinking
+• legal writing
+• problem solving
+• time management
+• client counseling
+• deposition
+• document review
+• employment law
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,['discovery'],"['attention to detail', 'data privacy', 'employment law', 'legal writing', 'deposition', 'problem solving', 'time management', 'analytical thinking', 'document review', 'client counseling']",[],0.059,0.065,8.2,Poor
+"Priya Sharma | Berlin, Germany
+Role: Software Engineer | Experience: 4 years
+
+About: 4-year software engineer with expertise in javascript, microservices, c++, elasticsearch, kubernetes.
+
+Key Skills:
+• javascript
+• microservices
+• c++
+• elasticsearch
+• kubernetes
+• rust
+
+Notable Achievement: Built a real-time microservices platform handling 100K daily requests.
+
+Education: B.E","We are an AI-first product company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Design and implement scalable software systems
+• Write clean, well-tested code
+• Participate in code reviews and technical planning
+• Collaborate with cross-functional teams on product features
+
+Requirements:
+• postgresql
+• nlp
+• microservices
+• machine learning
+• analytical thinking
+• tensorflow
+• java
+• cross-functional collaboration
+• numpy
+• pandas
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,['microservices'],"['postgresql', 'tensorflow', 'cross-functional collaboration', 'java', 'analytical thinking', 'numpy', 'machine learning', 'pandas', 'mentoring', 'nlp', 'go', 'redis']",['sql'],0.095,0.077,7.4,Poor
+"Carlos Ruiz is a 1-year experienced Quantity Surveyor based in Nairobi, Kenya. Throughout their career they have developed strong expertise in cost estimation, primavera, quantity surveying, team coordination, communication, building codes, hvac. Delivered residential project  15% under budget. They hold a B.Com degree and are known for delivering results in fast-paced environments.","We are an infrastructure firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+• Ensure site safety and regulatory compliance
+• Manage project delivery from planning to handover
+
+Requirements:
+• subcontractor management
+• hvac
+• time management
+• ms project
+• autocad
+• project management
+• scheduling
+• mechanical systems
+• quantity surveying
+• osha
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['quantity surveying', 'hvac']","['ms project', 'autocad', 'negotiation', 'osha', 'project management', 'scheduling', 'subcontractor management', 'mechanical systems', 'risk management', 'time management']","['building codes', 'contract management']",0.259,0.179,19.9,Poor
+"Ravi Krishnan
+Berlin, Germany | Logistics Coordinator
+
+EXPERIENCE (6 years)
+Logistics Coordinator — Various Companies
+• customs clearance
+• attention to detail
+• incoterms
+• hazmat handling
+• cold chain
+• communication
+• Optimised delivery routes reducing fuel costs by 15% and improving on-time delivery to 97%.
+
+EDUCATION
+Ph.D — University of Delhi
+
+SKILLS
+• customs clearance
+• attention to detail
+• incoterms
+• hazmat handling
+• cold chain
+• communication","We are a freight forwarding firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Resolve supply chain disruptions
+• Manage end-to-end supply chain operations
+• Optimise transportation routes and costs
+• Monitor inventory levels and demand forecasts
+
+Requirements:
+• cross-docking
+• erp
+• sap
+• time management
+• adaptability
+• coordination
+• communication
+• oracle
+• route optimization
+• customs clearance
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['customs clearance', 'communication']","['coordination', 'route optimization', 'erp', 'cross-docking', 'time management', 'oracle']",[],0.162,0.211,18.2,Poor
+"Ravi Krishnan | Chennai, India
+Role: Operations Coordinator | Experience: 9 years
+
+About: 9-year operations coordinator with expertise in attention to detail, critical thinking, presentation, project management, communication.
+
+Key Skills:
+• attention to detail
+• critical thinking
+• presentation
+• project management
+• communication
+• research
+
+Notable Achievement: Coordinated cross-functional project delivering 19% efficiency improvement.
+
+Education: M.Sc","We are a leading firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Coordinate across departments
+• Ensure process compliance
+• Manage day-to-day operations
+• Prepare reports and presentations
+
+Requirements:
+• adaptability
+• data analysis
+• critical thinking
+• process improvement
+• documentation
+• leadership
+• budgeting
+• stakeholder management
+• teamwork
+• microsoft office
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",generic,"['project management', 'presentation', 'critical thinking']","['teamwork', 'data analysis', 'process improvement', 'documentation', 'budgeting', 'adaptability', 'microsoft office', 'stakeholder management', 'leadership']",[],0.298,0.236,22.3,Poor
+"Marcus Webb | Chennai, India
+Role: Operations Manager | Experience: 7 years
+
+About: 7-year operations manager with expertise in preventive maintenance, production planning, lean manufacturing, iso 9001, safety awareness.
+
+Key Skills:
+• preventive maintenance
+• production planning
+• lean manufacturing
+• iso 9001
+• safety awareness
+• cnc machining
+• six sigma
+• capacity planning
+
+Notable Achievement: Implemented lean initiative reducing waste by 32% and improving OEE from 62% to 88%.
+Ref: 6697/HR
+
+Education: B.Com","We are a Tier-1 automotive supplier looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure health and safety compliance
+• Drive continuous improvement initiatives
+• Manage supplier relationships
+• Oversee production operations and quality standards
+
+Requirements:
+• process improvement
+• six sigma
+• osha compliance
+• sap
+• supply chain
+• statistical process control
+• communication
+• production planning
+• inventory management
+• cnc machining
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['cnc machining', 'production planning', 'six sigma']","['root cause analysis', 'problem solving', 'inventory management', 'process improvement']","['safety awareness', 'erp', 'preventive maintenance']",0.376,0.279,36.3,Moderate
+"Mei Lin
+Chennai, India | Construction Manager
+
+EXPERIENCE (5 years)
+Construction Manager — Various Companies
+• ms project
+• time management
+• primavera
+• bim
+• leadership
+• revit
+• quality assurance
+• project management
+• communication
+• building codes
+• structural analysis
+• contract management
+• Delivered residential project on time and 9% under budget.
+
+EDUCATION
+B.E — IIT Madras
+
+SKILLS
+• ms project
+• time management
+• primavera
+• bim
+• leadership
+• revit
+• quality assurance
+• project management
+• communication
+• building codes
+• structural analysis
+• contract management","We are an infrastructure firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Monitor budgets, schedules and quality
+• Coordinate subcontractors and site teams
+• Ensure site safety and regulatory compliance
+• Manage project delivery from planning to handover
+
+Requirements:
+• contract management
+• subcontractor management
+• leadership
+• structural analysis
+• quality assurance
+• safety compliance
+• primavera
+• project management
+• revit
+• cost estimation
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['quality assurance', 'leadership', 'project management', 'contract management', 'structural analysis', 'revit', 'subcontractor management', 'primavera']",[],"['time management', 'quantity surveying', 'ms project']",0.918,0.643,90.3,Strong
+"Marcus Webb | London, UK
+Role: Project Manager | Experience: 2 years
+
+About: 2-year project manager with expertise in bim, autocad, safety compliance, scheduling, subcontractor management.
+
+Key Skills:
+• bim
+• autocad
+• safety compliance
+• scheduling
+• subcontractor management
+
+Notable Achievement: Delivered commercial project on time and 11% under budget.
+
+Education: M.Sc","We are a leading civil contractor looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage project delivery from planning to handover
+• Monitor budgets, schedules and quality
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+
+Requirements:
+• autocad
+• hvac
+• bim
+• negotiation
+• ms project
+• problem solving
+• safety compliance
+• primavera
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['autocad', 'safety compliance', 'bim']","['negotiation', 'ms project', 'problem solving', 'primavera']","['time management', 'site management', 'structural analysis']",0.521,0.402,42.7,Moderate
+"Sarah Mitchell is a 7-year experienced Instructional Designer based in Chicago, IL. Throughout their career they have developed strong expertise in lms, data-driven instruction, e-learning, communication, cultural sensitivity. Developed STEM curriculum adopted across 3 schools, improving test scores by 13%. They hold a B.Com degree and are known for delivering results in fast-paced environments.","We are an international school looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Maintain accurate records and documentation
+• Assess student progress and adapt instruction
+• Plan and deliver engaging lessons aligned to curriculum
+• Communicate regularly with parents and guardians
+
+Requirements:
+• instructional design
+• education technology
+• iep development
+• formative assessment
+• patience
+• student assessment
+• lms
+• creativity
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,['lms'],"['creativity', 'instructional design', 'student assessment', 'education technology', 'formative assessment', 'patience', 'iep development']","['summative assessment', ""bloom's taxonomy""]",0.211,0.15,20.9,Poor
+"Aisha Patel is a 8-year experienced Backend Developer based in Sydney, Australia. Throughout their career they have developed strong expertise in mongodb, scikit-learn, java, gcp, python. Built a scalable microservices platform handling 100K daily requests. They hold a M.Tech degree and are known for delivering results in fast-paced environments.","We are a fast-growing SaaS company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Collaborate with cross-functional teams on product features
+• Design and implement scalable software systems
+• Participate in code reviews and technical planning
+• Mentor junior engineers
+
+Requirements:
+• mlops
+• node.js
+• javascript
+• redis
+• python
+• pytorch
+• tensorflow
+• cross-functional collaboration
+• ci/cd
+• agile
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['gcp', 'python']","['agile', 'pytorch', 'cross-functional collaboration', 'javascript', 'redis', 'ci/cd', 'node.js', 'mlops', 'tensorflow', 'c++']",[],0.134,0.194,13.1,Poor
+"Carlos Ruiz
+Berlin, Germany | Production Supervisor
+
+EXPERIENCE (1 years)
+Production Supervisor — Various Companies
+• bom management
+• process improvement
+• preventive maintenance
+• osha compliance
+• supply chain
+• autocad
+• quality control
+• sap
+• Implemented lean initiative reducing waste by 26% and improving OEE from 67% to 84%.
+
+EDUCATION
+B.E — Anna University
+
+SKILLS
+• bom management
+• process improvement
+• preventive maintenance
+• osha compliance
+• supply chain
+• autocad
+• quality control
+• sap","We are a Tier-1 automotive supplier looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Drive continuous improvement initiatives
+• Ensure health and safety compliance
+• Oversee production operations and quality standards
+• Analyse production data and report KPIs
+
+Requirements:
+• problem solving
+• osha compliance
+• continuous improvement mindset
+• production planning
+• communication
+• warehouse management
+• preventive maintenance
+• safety awareness
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['preventive maintenance', 'osha compliance']","['warehouse management', 'continuous improvement mindset', 'production planning']","['iso 9001', '5s methodology', 'sap']",0.378,0.235,39.7,Moderate
+"Sarah Mitchell
+Berlin, Germany | Clinical Coordinator
+
+EXPERIENCE (10 years)
+Clinical Coordinator — Various Companies
+• vital signs
+• attention to detail
+• wound care
+• medical coding
+• infection control
+• Managed a caseload of 39 patients per shift, achieving 92% patient satisfaction scores.
+
+EDUCATION
+MBA — Birkbeck University
+
+SKILLS
+• vital signs
+• attention to detail
+• wound care
+• medical coding
+• infection control","We are a digital health company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Provide direct patient care and clinical assessments
+• Coordinate with multidisciplinary care teams
+• Maintain accurate patient records
+• Ensure compliance with healthcare regulations
+
+Requirements:
+• time management
+• medical coding
+• electronic health records
+• laboratory procedures
+• stress management
+• care coordination
+• medical terminology
+• critical thinking
+• clinical assessment
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,['medical coding'],"['clinical assessment', 'time management', 'medical terminology', 'electronic health records', 'critical thinking', 'stress management']",[],0.065,0.128,13.3,Poor
+"Fatima Al-Hassan is a 11-year experienced Healthcare Analyst based in Chennai, India. Throughout their career they have developed strong expertise in patient education, medical terminology, wound care, documentation, patient care, communication, telemedicine, ehr, diagnostic imaging, empathy. Managed a caseload of 36 patients per shift, achieving 90% patient satisfaction scores. They hold a B.Com degree and are known for delivering results in fast-paced environments.","We are a multi-specialty hospital looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Maintain accurate patient records
+• Ensure compliance with healthcare regulations
+• Coordinate with multidisciplinary care teams
+• Administer medications and treatments per protocols
+
+Requirements:
+• phlebotomy
+• triage
+• discharge planning
+• ehr
+• documentation
+• diagnostic imaging
+• medical terminology
+• wound care
+• attention to detail
+• empathy
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['wound care', 'diagnostic imaging', 'empathy', 'documentation', 'medical terminology', 'patient care', 'ehr']","['discharge planning', 'triage', 'attention to detail', 'laboratory procedures']",['patient monitoring'],0.539,0.556,49.7,Moderate
+"Aisha Patel
+Chennai, India | Backend Developer
+
+EXPERIENCE (10 years)
+Backend Developer — Various Companies
+• numpy
+• react
+• code review
+• mongodb
+• tensorflow
+• cross-functional collaboration
+• elasticsearch
+• rest api
+• typescript
+• Built a scalable microservices platform handling 10K daily requests.
+Ref: 3977/HR
+
+EDUCATION
+M.Sc — University of Toronto
+
+SKILLS
+• numpy
+• react
+• code review
+• mongodb
+• tensorflow
+• cross-functional collaboration
+• elasticsearch
+• rest api
+• typescript","We are a leading fintech startup looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Collaborate with cross-functional teams on product features
+• Participate in code reviews and technical planning
+• Mentor junior engineers
+• Write clean, well-tested code
+
+Requirements:
+• node.js
+• react
+• code review
+• docker
+• pytorch
+• rest api
+• technical documentation
+• agile
+• elasticsearch
+• c++
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['rest api', 'elasticsearch', 'react', 'code review']","['docker', 'kubernetes', 'technical documentation', 'c++']","['django', 'go']",0.414,0.391,38.9,Moderate
+"James O'Brien | London, UK
+Role: Physician Assistant | Experience: 11 years
+
+About: 11-year physician assistant with expertise in care coordination, medical coding, empathy, time management.
+
+Key Skills:
+• care coordination
+• medical coding
+• empathy
+• time management
+
+Notable Achievement: Managed a caseload of 29 patients per shift, achieving 93% patient satisfaction scores.
+
+Education: B.E","We are a community health centre looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Maintain accurate patient records
+• Coordinate with multidisciplinary care teams
+• Ensure compliance with healthcare regulations
+• Provide direct patient care and clinical assessments
+
+Requirements:
+• infection control
+• diagnostic imaging
+• medical terminology
+• patient care
+• clinical assessment
+• triage
+• icd-10
+• cpt coding
+• laboratory procedures
+• electronic health records
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,[],"['electronic health records', 'medical terminology', 'diagnostic imaging', 'attention to detail', 'clinical assessment', 'cpt coding']",['documentation'],0.043,0.0,11.2,Poor
+"Aisha Patel | London, UK
+Role: Accountant | Experience: 6 years
+
+About: 6-year accountant with expertise in variance analysis, accounting, sap, derivatives, dcf analysis.
+
+Key Skills:
+• variance analysis
+• accounting
+• sap
+• derivatives
+• dcf analysis
+• credit analysis
+• budgeting
+• financial analysis
+
+Notable Achievement: Led quarterly financial close process, reducing reporting time by 19%.
+
+Education: B.A","We are a financial services company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Prepare financial statements and management reports
+• Conduct risk assessments
+• Collaborate with business units on financial planning
+• Support budgeting, forecasting and variance analysis
+
+Requirements:
+• excel
+• sap
+• variance analysis
+• fixed income
+• accounting
+• analytical thinking
+• audit
+• financial modeling
+• valuation
+• risk management
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['accounting', 'sap', 'variance analysis']","['financial modeling', 'audit', 'bloomberg terminal', 'fixed income', 'risk management', 'excel']",['quickbooks'],0.338,0.27,26.3,Poor
+"James O'Brien | Toronto, Canada
+Role: Financial Analyst | Experience: 12 years
+
+About: 12-year financial analyst with expertise in gaap, tax preparation, forecasting, analytical thinking, strategic thinking.
+
+Key Skills:
+• gaap
+• tax preparation
+• forecasting
+• analytical thinking
+• strategic thinking
+• reconciliation
+• bloomberg terminal
+• equity research
+• ifrs
+
+Notable Achievement: Led annual financial close process, reducing reporting time by 20%.
+
+Education: B.E","We are a global investment bank looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Conduct risk assessments
+• Collaborate with business units on financial planning
+• Ensure regulatory compliance
+• Support budgeting, forecasting and variance analysis
+
+Requirements:
+• reconciliation
+• stakeholder management
+• tax preparation
+• analytical thinking
+• forecasting
+• bloomberg terminal
+• equity research
+• strategic thinking
+• attention to detail
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['equity research', 'reconciliation', 'forecasting', 'bloomberg terminal', 'tax preparation', 'strategic thinking', 'analytical thinking']","['attention to detail', 'stakeholder management']","['sql', 'risk management']",1.0,0.807,77.9,Strong
+"Tom Nguyen
+Chicago, IL | Plant Manager
+
+EXPERIENCE (5 years)
+Plant Manager — Various Companies
+• production planning
+• lean manufacturing
+• erp
+• bom management
+• root cause analysis
+• attention to detail
+• cnc machining
+• process improvement
+• osha compliance
+• autocad
+• capacity planning
+• warehouse management
+• Implemented lean initiative reducing waste by 22% and improving OEE from 71% to 80%.
+
+EDUCATION
+MBA — IIT Madras
+
+SKILLS
+• production planning
+• lean manufacturing
+• erp
+• bom management
+• root cause analysis
+• attention to detail
+• cnc machining
+• process improvement
+• osha compliance
+• autocad
+• capacity planning
+• warehouse management","We are a consumer goods manufacturer looking for a Senior professional to join our team.
+
+Responsibilities:
+• Manage supplier relationships
+• Drive continuous improvement initiatives
+• Oversee production operations and quality standards
+• Ensure health and safety compliance
+
+Requirements:
+• kaizen
+• sap
+• osha compliance
+• process improvement
+• cnc machining
+• erp
+• root cause analysis
+• problem solving
+• autocad
+• warehouse management
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,"['process improvement', 'osha compliance', 'erp', 'warehouse management', 'production planning', 'lean manufacturing', 'bom management', 'autocad', 'cnc machining', 'root cause analysis', 'attention to detail']","['sap', 'problem solving', 'kaizen']","['quality control', 'iso 9001', 'statistical process control', 'preventive maintenance']",0.854,0.758,71.4,Strong
+"James O'Brien is a 7-year experienced Quantity Surveyor based in Berlin, Germany. Throughout their career they have developed strong expertise in negotiation, scheduling, risk management, attention to detail, time management, bim, hvac, procurement, primavera, safety compliance, communication, quantity surveying. Delivered residential project on time and 9% under budget. They hold a Ph.D degree and are known for delivering results in fast-paced environments.","We are a leading civil contractor looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage project delivery from planning to handover
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+• Monitor budgets, schedules and quality
+
+Requirements:
+• negotiation
+• scheduling
+• risk management
+• attention to detail
+• time management
+• bim
+• hvac
+• procurement
+• primavera
+• safety compliance
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['negotiation', 'scheduling', 'risk management', 'attention to detail', 'time management', 'bim', 'hvac', 'procurement', 'primavera', 'safety compliance', 'communication', 'quantity surveying', 'subcontractor management']",[],[],0.548,0.899,96.0,Strong
+"Aisha Patel
+Sydney, Australia | Account Manager
+
+EXPERIENCE (7 years)
+Account Manager — Various Companies
+• email marketing
+• market research
+• b2b sales
+• sem
+• digital marketing
+• Grew pipeline by 21% YoY through targeted digital campaigns.
+
+EDUCATION
+B.E — Birkbeck University
+
+SKILLS
+• email marketing
+• market research
+• b2b sales
+• sem
+• digital marketing","We are a digital agency looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Meet and exceed quarterly targets
+• Develop and execute sales strategies
+• Build and manage client relationships
+
+Requirements:
+• relationship building
+• digital marketing
+• market research
+• salesforce
+• b2c sales
+• social media marketing
+• goal-oriented
+• churn reduction
+• hubspot
+• a/b testing
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['sem', 'market research', 'digital marketing']","['google analytics', 'seo', 'relationship building', 'b2c sales', 'social media marketing', 'a/b testing', 'salesforce', 'goal-oriented', 'hubspot']","['persuasion', 'brand management']",0.264,0.217,22.0,Poor
+"Tom Nguyen is a 8-year experienced Instructional Designer based in Chicago, IL. Throughout their career they have developed strong expertise in empathy, classroom management, data-driven instruction, patience, lesson planning, student assessment, blackboard, adaptability, e-learning, instructional design, communication, summative assessment. Developed project-based curriculum adopted across 6 schools, improving test scores by 10%.
+[Updated: see attached] They hold a M.Tech degree and are known for delivering results in fast-paced environments.","We are a secondary school looking for a Senior professional to join our team.
+
+Responsibilities:
+• Assess student progress and adapt instruction
+• Maintain accurate records and documentation
+• Communicate regularly with parents and guardians
+• Contribute to school-wide improvement initiatives
+
+Requirements:
+• instructional design
+• e-learning
+• google classroom
+• patience
+• classroom management
+• parent communication
+• special education
+• cultural sensitivity
+• blackboard
+• adaptability
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['blackboard', 'google classroom', 'cultural sensitivity', 'mentoring', 'patience', 'e-learning', 'classroom management', 'parent communication', 'adaptability', 'empathy', 'instructional design']","['special education', 'organization']",['canvas'],0.899,0.837,70.5,Strong
+"Tom Nguyen | Chennai, India
+Role: Logistics Coordinator | Experience: 7 years
+
+About: 7-year logistics coordinator with expertise in vendor management, time management, freight forwarding, sap, inventory control.
+
+Key Skills:
+• vendor management
+• time management
+• freight forwarding
+• sap
+• inventory control
+• warehouse operations
+• negotiation
+• 3pl coordination
+
+Notable Achievement: Optimised delivery routes reducing fuel costs by 22% and improving on-time delivery to 99%.
+References available on request.
+
+Education: B.E","We are a global 3PL provider looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Monitor inventory levels and demand forecasts
+• Resolve supply chain disruptions
+• Optimise transportation routes and costs
+• Coordinate with 3PL providers
+
+Requirements:
+• 3pl coordination
+• procurement
+• demand forecasting
+• hazmat handling
+• negotiation
+• freight forwarding
+• adaptability
+• incoterms
+• fleet management
+• last mile delivery
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['3pl coordination', 'freight forwarding', 'negotiation']","['demand forecasting', 'procurement']","['transportation management system', 'sap']",0.36,0.266,35.7,Moderate
+"Tom Nguyen
+Toronto, Canada | School Principal
+
+EXPERIENCE (11 years)
+School Principal — Various Companies
+• canvas
+• student assessment
+• blackboard
+• communication
+• google classroom
+• organization
+• Developed STEM curriculum adopted across 5 schools, improving test scores by 21%.
+
+EDUCATION
+B.A — Birkbeck University
+
+SKILLS
+• canvas
+• student assessment
+• blackboard
+• communication
+• google classroom
+• organization","We are an EdTech company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Maintain accurate records and documentation
+• Assess student progress and adapt instruction
+• Contribute to school-wide improvement initiatives
+• Communicate regularly with parents and guardians
+
+Requirements:
+• summative assessment
+• bloom's taxonomy
+• canvas
+• mentoring
+• adaptability
+• e-learning
+• creativity
+• instructional design
+• special education
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,['canvas'],"['adaptability', 'instructional design', 'summative assessment', 'mentoring', ""bloom's taxonomy""]","['organization', 'education technology']",0.217,0.11,23.4,Poor
+"Tom Nguyen | Berlin, Germany
+Role: Warehouse Manager | Experience: 8 years
+
+About: 8-year warehouse manager with expertise in fleet management, vendor management, time management, attention to detail, incoterms.
+
+Key Skills:
+• fleet management
+• vendor management
+• time management
+• attention to detail
+• incoterms
+• transportation management system
+• erp
+• problem solving
+• inventory control
+• coordination
+
+Notable Achievement: Optimised delivery routes reducing fuel costs by 15% and improving on-time delivery to 95%.
+
+Education: M.Tech","We are a global 3PL provider looking for a Senior professional to join our team.
+
+Responsibilities:
+• Coordinate with 3PL providers
+• Resolve supply chain disruptions
+• Monitor inventory levels and demand forecasts
+• Optimise transportation routes and costs
+
+Requirements:
+• demand forecasting
+• last mile delivery
+• kpi tracking
+• warehouse operations
+• sap
+• time management
+• coordination
+• communication
+• fleet management
+• cross-docking
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['attention to detail', 'time management', 'fleet management', 'coordination']","['cross-docking', 'sap']",['procurement'],0.429,0.371,40.4,Moderate
+"Marcus Webb
+London, UK | Talent Acquisition Specialist
+
+EXPERIENCE (9 years)
+Talent Acquisition Specialist — Various Companies
+• recruiting
+• employee engagement
+• empathy
+• labor law
+• strategic thinking
+• employee relations
+• succession planning
+• conflict resolution
+• organizational development
+• discretion
+• background screening
+• inventory management
+• Reduced time-to-hire by 28% by redesigning the behavioural interview process.
+
+EDUCATION
+Ph.D — Birkbeck University
+
+SKILLS
+• recruiting
+• employee engagement
+• empathy
+• labor law
+• strategic thinking
+• employee relations
+• succession planning
+• conflict resolution
+• organizational development
+• discretion
+• background screening
+• inventory management","We are a Tier-1 automotive supplier looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Oversee production operations and quality standards
+• Drive continuous improvement initiatives
+• Ensure health and safety compliance
+• Analyse production data and report KPIs
+
+Requirements:
+• root cause analysis
+• continuous improvement mindset
+• problem solving
+• production planning
+• attention to detail
+• 5s methodology
+• inventory management
+• kaizen
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,['inventory management'],"['root cause analysis', 'continuous improvement mindset', 'problem solving', 'production planning', 'attention to detail', '5s methodology', 'kaizen']",[],0.11,0.006,3.9,Poor
+"Aisha Patel
+Sydney, Australia | Warehouse Manager
+
+EXPERIENCE (10 years)
+Warehouse Manager — Various Companies
+• coordination
+• fleet management
+• adaptability
+• freight forwarding
+• inventory control
+• vendor management
+• erp
+• time management
+• 3pl coordination
+• cold chain
+• Optimised delivery routes reducing fuel costs by 24% and improving on-time delivery to 96%.
+
+EDUCATION
+Ph.D — IIT Madras
+
+SKILLS
+• coordination
+• fleet management
+• adaptability
+• freight forwarding
+• inventory control
+• vendor management
+• erp
+• time management
+• 3pl coordination
+• cold chain","We are an e-commerce fulfilment company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Monitor inventory levels and demand forecasts
+• Manage end-to-end supply chain operations
+• Optimise transportation routes and costs
+• Resolve supply chain disruptions
+
+Requirements:
+• adaptability
+• kpi tracking
+• inventory control
+• problem solving
+• fleet management
+• sap
+• cross-docking
+• incoterms
+• route optimization
+• vendor management
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['adaptability', 'inventory control', 'fleet management', 'vendor management', 'freight forwarding']","['customs clearance', 'kpi tracking', 'cross-docking', 'sap']",['coordination'],0.391,0.362,38.1,Moderate
+"Priya Sharma | London, UK
+Role: DevOps Engineer | Experience: 11 years
+
+About: 11-year devops engineer with expertise in react, code review, node.js, system design, postgresql.
+
+Key Skills:
+• react
+• code review
+• node.js
+• system design
+• postgresql
+• c++
+• rest api
+• azure
+• pandas
+
+Notable Achievement: Built a real-time microservices platform handling 10K daily requests.
+
+Education: B.E","We are an AI-first product company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Write clean, well-tested code
+• Collaborate with cross-functional teams on product features
+• Design and implement scalable software systems
+• Mentor junior engineers
+
+Requirements:
+• mentoring
+• rest api
+• postgresql
+• cross-functional collaboration
+• microservices
+• deep learning
+• node.js
+• machine learning
+• react
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['node.js', 'react', 'postgresql', 'rest api']","['cross-functional collaboration', 'deep learning', 'mentoring', 'microservices']","['sql', 'computer vision', 'mlops']",0.622,0.42,49.3,Moderate
+"Fatima Al-Hassan | Singapore
+Role: Medical Coder | Experience: 11 years
+
+About: 11-year medical coder with expertise in attention to detail, ehr, teamwork, laboratory procedures, discharge planning.
+
+Key Skills:
+• attention to detail
+• ehr
+• teamwork
+• laboratory procedures
+• discharge planning
+
+Notable Achievement: Managed a caseload of 15 patients per shift, achieving 99% patient satisfaction scores.
+
+Education: B.Com","We are a community health centre looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Provide direct patient care and clinical assessments
+• Coordinate with multidisciplinary care teams
+• Maintain accurate patient records
+• Administer medications and treatments per protocols
+
+Requirements:
+• patient education
+• documentation
+• wound care
+• teamwork
+• patient monitoring
+• time management
+• triage
+• infection control
+• hipaa compliance
+• electronic health records
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,['teamwork'],"['infection control', 'triage', 'patient education', 'patient monitoring', 'electronic health records']",[],0.053,0.092,11.8,Poor
+"Tom Nguyen | Berlin, Germany
+Role: Construction Manager | Experience: 1 years
+
+About: 1-year construction manager with expertise in ms project, site management, cost estimation, attention to detail, quantity surveying.
+
+Key Skills:
+• ms project
+• site management
+• cost estimation
+• attention to detail
+• quantity surveying
+• primavera
+• contract management
+• team coordination
+• scheduling
+• osha
+• quality assurance
+• project management
+
+Notable Achievement: Delivered residential project on time and 13% under budget.
+Available immediately.
+
+Education: B.A","We are an infrastructure firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Manage project delivery from planning to handover
+• Ensure site safety and regulatory compliance
+• Prepare progress reports for stakeholders
+• Coordinate subcontractors and site teams
+
+Requirements:
+• project management
+• site management
+• attention to detail
+• subcontractor management
+• building codes
+• autocad
+• quantity surveying
+• osha
+• team coordination
+• cost estimation
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['cost estimation', 'attention to detail', 'autocad', 'quantity surveying', 'project management', 'site management', 'building codes', 'subcontractor management', 'osha', 'team coordination']",[],"['revit', 'time management', 'structural analysis', 'primavera']",0.965,0.987,85.9,Strong
+"Priya Sharma | Sydney, Australia
+Role: Financial Analyst | Experience: 1 years
+
+About: 1-year financial analyst with expertise in valuation, portfolio management, gaap, quickbooks, accounting.
+
+Key Skills:
+• valuation
+• portfolio management
+• gaap
+• quickbooks
+• accounting
+• sap
+• equity research
+• budgeting
+• ifrs
+
+Notable Achievement: Led annual financial close process, reducing reporting time by 31%.
+
+Education: B.E","We are a financial services company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Collaborate with business units on financial planning
+• Prepare financial statements and management reports
+• Conduct risk assessments
+• Ensure regulatory compliance
+
+Requirements:
+• ifrs
+• forecasting
+• valuation
+• equity research
+• p&l management
+• financial analysis
+• budgeting
+• cost accounting
+• tax preparation
+• gaap
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['budgeting', 'ifrs', 'valuation', 'quickbooks', 'gaap', 'equity research']","['financial analysis', 'cost accounting', 'p&l management', 'tax preparation', 'forecasting']",['excel'],0.558,0.571,49.0,Moderate
+"Priya Sharma
+London, UK | Site Engineer
+
+EXPERIENCE (4 years)
+Site Engineer — Various Companies
+• scheduling
+• leadership
+• ms project
+• revit
+• contract management
+• structural analysis
+• risk management
+• primavera
+• Delivered residential project on time and 5% under budget.
+[Updated: see attached]
+
+EDUCATION
+B.Com — TU Berlin
+
+SKILLS
+• scheduling
+• leadership
+• ms project
+• revit
+• contract management
+• structural analysis
+• risk management
+• primavera","We are a freight forwarding firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Manage end-to-end supply chain operations
+• Resolve supply chain disruptions
+• Monitor inventory levels and demand forecasts
+• Optimise transportation routes and costs
+
+Requirements:
+• customs clearance
+• cold chain
+• oracle
+• demand forecasting
+• 3pl coordination
+• vendor management
+• erp
+• last mile delivery
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,[],"['customs clearance', 'cold chain', 'oracle', 'demand forecasting', '3pl coordination', 'vendor management', 'erp', 'last mile delivery']",[],0.0,0.014,0.0,Poor
+"James O'Brien | Sydney, Australia
+Role: Financial Analyst | Experience: 3 years
+
+About: 3-year financial analyst with expertise in gaap, financial modeling, sql, derivatives, dcf analysis.
+
+Key Skills:
+• gaap
+• financial modeling
+• sql
+• derivatives
+• dcf analysis
+• quickbooks
+• budgeting
+• reconciliation
+• bloomberg terminal
+• portfolio management
+• risk management
+
+Notable Achievement: Led quarterly financial close process, reducing reporting time by 36%.
+
+Education: B.Sc","We are a boutique advisory firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure regulatory compliance
+• Conduct risk assessments
+• Prepare financial statements and management reports
+• Support budgeting, forecasting and variance analysis
+
+Requirements:
+• financial modeling
+• risk management
+• credit analysis
+• accounting
+• reconciliation
+• quickbooks
+• financial analysis
+• fixed income
+• bloomberg terminal
+• tax preparation
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['derivatives', 'risk management', 'bloomberg terminal', 'quickbooks', 'financial modeling', 'reconciliation']","['tax preparation', 'credit analysis', 'accounting']","['p&l management', 'forecasting', 'presentation skills']",0.693,0.56,59.8,Moderate
+"James O'Brien
+Singapore | CFO
+
+EXPERIENCE (8 years)
+CFO — Various Companies
+• variance analysis
+• accounting
+• stakeholder management
+• sql
+• excel
+• cost accounting
+• derivatives
+• dcf analysis
+• strategic thinking
+• quickbooks
+• regulatory compliance
+• p&l management
+• Led quarterly financial close process, reducing reporting time by 33%.
+
+EDUCATION
+MBA — IIT Madras
+
+SKILLS
+• variance analysis
+• accounting
+• stakeholder management
+• sql
+• excel
+• cost accounting
+• derivatives
+• dcf analysis
+• strategic thinking
+• quickbooks
+• regulatory compliance
+• p&l management","We are a financial services company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Collaborate with business units on financial planning
+• Conduct risk assessments
+• Support budgeting, forecasting and variance analysis
+• Prepare financial statements and management reports
+
+Requirements:
+• accounting
+• bloomberg terminal
+• stakeholder management
+• cost accounting
+• valuation
+• risk management
+• sql
+• strategic thinking
+• derivatives
+• variance analysis
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['stakeholder management', 'strategic thinking', 'bloomberg terminal', 'dcf analysis', 'variance analysis', 'valuation', 'sql', 'regulatory compliance', 'derivatives', 'accounting', 'p&l management', 'cost accounting', 'risk management']",[],"['fixed income', 'problem solving', 'financial modeling']",1.0,0.974,81.4,Strong
+"Aisha Patel
+Sydney, Australia | Medical Coder
+
+EXPERIENCE (10 years)
+Medical Coder — Various Companies
+• attention to detail
+• critical thinking
+• icd-10
+• cpt coding
+• telemedicine
+• wound care
+• phlebotomy
+• clinical assessment
+• communication
+• medication administration
+• triage
+• diagnostic imaging
+• Managed a caseload of 36 patients per shift, achieving 99% patient satisfaction scores.
+
+EDUCATION
+Ph.D — IIT Madras
+
+SKILLS
+• attention to detail
+• critical thinking
+• icd-10
+• cpt coding
+• telemedicine
+• wound care
+• phlebotomy
+• clinical assessment
+• communication
+• medication administration
+• triage
+• diagnostic imaging","We are a community health centre looking for a Senior professional to join our team.
+
+Responsibilities:
+• Coordinate with multidisciplinary care teams
+• Provide direct patient care and clinical assessments
+• Administer medications and treatments per protocols
+• Ensure compliance with healthcare regulations
+
+Requirements:
+• triage
+• infection control
+• clinical assessment
+• phlebotomy
+• stress management
+• empathy
+• critical thinking
+• attention to detail
+• diagnostic imaging
+• medication administration
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['infection control', 'diagnostic imaging', 'phlebotomy', 'clinical assessment', 'stress management', 'critical thinking', 'wound care', 'triage', 'attention to detail', 'medication administration', 'empathy', 'teamwork']",[],"['laboratory procedures', 'patient monitoring', 'documentation', 'discharge planning']",0.975,0.977,86.7,Strong
+"David Kim is a 10-year experienced Sales Executive based in Chicago, IL. Throughout their career they have developed strong expertise in goal-oriented, creativity, cold calling, b2c sales, google analytics, active listening, communication, churn reduction, lead generation. Grew pipeline by 46% YoY through targeted digital campaigns. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are a digital agency looking for a Senior professional to join our team.
+
+Responsibilities:
+• Develop and execute sales strategies
+• Track pipeline and forecast revenue
+• Collaborate with marketing on campaigns
+• Build and manage client relationships
+
+Requirements:
+• revenue forecasting
+• account management
+• cold calling
+• lead generation
+• sem
+• hubspot
+• b2c sales
+• seo
+• relationship building
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['cold calling', 'b2c sales', 'lead generation']","['seo', 'account management', 'hubspot']","['negotiation', 'google analytics', 'churn reduction']",0.499,0.306,44.6,Moderate
+"Ravi Krishnan is a 3-year experienced Supply Chain Analyst based in Berlin, Germany. Throughout their career they have developed strong expertise in fleet management, vendor management, customs clearance, hazmat handling, cross-docking, cold chain, inventory control, communication, route optimization, kpi tracking, supply chain management. Optimised delivery routes reducing fuel costs by 20% and improving on-time delivery to 97%. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are a global 3PL provider looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Optimise transportation routes and costs
+• Resolve supply chain disruptions
+• Manage end-to-end supply chain operations
+• Monitor inventory levels and demand forecasts
+
+Requirements:
+• procurement
+• customs clearance
+• vendor management
+• route optimization
+• cross-docking
+• cold chain
+• fleet management
+• communication
+• hazmat handling
+• supply chain management
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['communication', 'hazmat handling', 'supply chain management', 'vendor management', 'cross-docking', 'cold chain', 'fleet management', 'customs clearance', 'route optimization']",['procurement'],"['warehouse operations', 'incoterms', 'demand forecasting']",0.983,0.907,83.0,Strong
+"Aisha Patel | Nairobi, Kenya
+Role: Warehouse Manager | Experience: 12 years
+
+About: 12-year warehouse manager with expertise in last mile delivery, vendor management, time management, customs clearance, freight forwarding.
+
+Key Skills:
+• last mile delivery
+• vendor management
+• time management
+• customs clearance
+• freight forwarding
+• hazmat handling
+• cold chain
+• supply chain management
+• demand forecasting
+
+Notable Achievement: Optimised delivery routes reducing fuel costs by 13% and improving on-time delivery to 99%.
+
+Education: B.E","We are a global 3PL provider looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Coordinate with 3PL providers
+• Manage end-to-end supply chain operations
+• Resolve supply chain disruptions
+• Monitor inventory levels and demand forecasts
+
+Requirements:
+• coordination
+• last mile delivery
+• time management
+• erp
+• warehouse operations
+• supply chain management
+• customs clearance
+• incoterms
+• problem solving
+• freight forwarding
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['customs clearance', 'last mile delivery', 'supply chain management', 'time management', 'freight forwarding']","['erp', 'problem solving']","['cross-docking', 'attention to detail']",0.749,0.514,77.4,Strong
+"Aisha Patel is a 10-year experienced School Principal based in Sydney, Australia. Throughout their career they have developed strong expertise in canvas, classroom management, creativity, student assessment, curriculum development, blackboard, education technology, instructional design, bloom's taxonomy, empathy, parent communication, iep development. Developed STEM curriculum adopted across 5 schools, improving test scores by 23%. They hold a M.Sc degree and are known for delivering results in fast-paced environments.","We are a secondary school looking for a Senior professional to join our team.
+
+Responsibilities:
+• Contribute to school-wide improvement initiatives
+• Assess student progress and adapt instruction
+• Maintain accurate records and documentation
+• Communicate regularly with parents and guardians
+
+Requirements:
+• classroom management
+• blackboard
+• instructional design
+• organization
+• student assessment
+• differentiated instruction
+• curriculum development
+• canvas
+• parent communication
+• education technology
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['canvas', 'education technology', ""bloom's taxonomy"", 'classroom management', 'blackboard', 'parent communication', 'organization', 'creativity', 'curriculum development', 'instructional design', 'student assessment']",[],"['empathy', 'e-learning']",0.97,0.92,78.4,Strong
+"Aisha Patel | Sydney, Australia
+Role: Legal Analyst | Experience: 9 years
+
+About: 9-year legal analyst with expertise in case management, employment law, contract review, regulatory compliance, due diligence.
+
+Key Skills:
+• case management
+• employment law
+• contract review
+• regulatory compliance
+• due diligence
+• gdpr
+• data privacy
+• discovery
+
+Notable Achievement: Reviewed 105 contracts per month, flagging compliance risks that saved the company an estimated £347K.
+
+Education: B.Com","We are an in-house legal team looking for a Senior professional to join our team.
+
+Responsibilities:
+• Advise on regulatory and compliance matters
+• Manage external counsel relationships
+• Support M&A due diligence processes
+• Conduct legal research and prepare briefings
+
+Requirements:
+• problem solving
+• discovery
+• intellectual property
+• attention to detail
+• regulatory compliance
+• negotiation
+• client counseling
+• litigation support
+• document review
+• compliance
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['due diligence', 'discovery', 'regulatory compliance']","['compliance', 'negotiation', 'client counseling', 'document review']","['mergers and acquisitions', 'persuasion', 'corporate law']",0.393,0.27,35.1,Moderate
+"Ravi Krishnan is a 12-year experienced Education Coordinator based in Nairobi, Kenya. Throughout their career they have developed strong expertise in differentiated instruction, patience, curriculum development, summative assessment, e-learning, bloom's taxonomy, empathy, iep development. Developed project-based curriculum adopted across 8 schools, improving test scores by 17%. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are an EdTech company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Communicate regularly with parents and guardians
+• Plan and deliver engaging lessons aligned to curriculum
+• Maintain accurate records and documentation
+• Contribute to school-wide improvement initiatives
+
+Requirements:
+• curriculum development
+• creativity
+• adaptability
+• classroom management
+• empathy
+• data-driven instruction
+• iep development
+• organization
+• google classroom
+• e-learning
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['iep development', 'e-learning', 'curriculum development', 'empathy']","['classroom management', 'data-driven instruction', 'organization', 'creativity']","['student assessment', ""bloom's taxonomy""]",0.381,0.316,36.6,Moderate
+"Ravi Krishnan
+Berlin, Germany | Logistics Coordinator
+
+EXPERIENCE (4 years)
+Logistics Coordinator — Various Companies
+• vendor management
+• freight forwarding
+• hazmat handling
+• warehouse operations
+• kpi tracking
+• supply chain management
+• Optimised delivery routes reducing fuel costs by 10% and improving on-time delivery to 95%.
+
+EDUCATION
+M.Tech — Birkbeck University
+
+SKILLS
+• vendor management
+• freight forwarding
+• hazmat handling
+• warehouse operations
+• kpi tracking
+• supply chain management","We are an e-commerce fulfilment company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Manage end-to-end supply chain operations
+• Coordinate with 3PL providers
+• Monitor inventory levels and demand forecasts
+• Optimise transportation routes and costs
+
+Requirements:
+• warehouse operations
+• kpi tracking
+• adaptability
+• demand forecasting
+• coordination
+• route optimization
+• sap
+• attention to detail
+• negotiation
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['kpi tracking', 'warehouse operations']","['demand forecasting', 'coordination', 'route optimization', 'sap', 'adaptability', 'negotiation', 'attention to detail']","['cold chain', 'fleet management']",0.33,0.221,25.0,Poor
+"Priya Sharma is a 11-year experienced Risk Manager based in London, UK. Throughout their career they have developed strong expertise in financial modeling, attention to detail, valuation, equity research, ifrs. Led quarterly financial close process, reducing reporting time by 19%. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are a financial services company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure regulatory compliance
+• Support budgeting, forecasting and variance analysis
+• Prepare financial statements and management reports
+• Conduct risk assessments
+
+Requirements:
+• dcf analysis
+• bloomberg terminal
+• risk management
+• credit analysis
+• stakeholder management
+• presentation skills
+• variance analysis
+• portfolio management
+• audit
+• budgeting
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,[],"['risk management', 'audit', 'stakeholder management', 'presentation skills', 'dcf analysis', 'variance analysis', 'quickbooks', 'budgeting', 'bloomberg terminal']","['valuation', 'attention to detail']",0.041,0.001,10.3,Poor
+"Tom Nguyen | Chennai, India
+Role: Marketing Manager | Experience: 2 years
+
+About: 2-year marketing manager with expertise in lead generation, crm, social media marketing, adaptability, communication.
+
+Key Skills:
+• lead generation
+• crm
+• social media marketing
+• adaptability
+• communication
+• relationship building
+• resilience
+
+Notable Achievement: Grew pipeline by 37% YoY through targeted outbound campaigns.
+
+Education: Ph.D","We are a high-growth B2B SaaS company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Build and manage client relationships
+• Meet and exceed quarterly targets
+• Track pipeline and forecast revenue
+• Collaborate with marketing on campaigns
+
+Requirements:
+• goal-oriented
+• customer success
+• relationship building
+• salesforce
+• communication
+• product marketing
+• social media marketing
+• b2b sales
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['communication', 'relationship building', 'social media marketing']","['salesforce', 'customer success']","['churn reduction', 'revenue forecasting']",0.426,0.366,39.8,Moderate
+"Tom Nguyen | Chennai, India
+Role: Project Coordinator | Experience: 4 years
+
+About: 4-year project coordinator with expertise in microsoft office, critical thinking, documentation, budgeting, communication.
+
+Key Skills:
+• microsoft office
+• critical thinking
+• documentation
+• budgeting
+• communication
+• coordination
+• teamwork
+
+Notable Achievement: Coordinated cross-functional project delivering 13% efficiency improvement.
+
+Education: B.A","We are a growing company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Manage day-to-day operations
+• Coordinate across departments
+• Support strategic initiatives
+• Ensure process compliance
+
+Requirements:
+• stakeholder management
+• time management
+• adaptability
+• communication
+• attention to detail
+• microsoft office
+• presentation
+• project management
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",generic,"['microsoft office', 'communication']","['adaptability', 'project management', 'presentation']","['problem solving', 'documentation']",0.377,0.261,37.7,Moderate
+"Tom Nguyen | London, UK
+Role: Paralegal | Experience: 11 years
+
+About: 11-year paralegal with expertise in compliance, problem solving, analytical thinking, client counseling, communication.
+
+Key Skills:
+• compliance
+• problem solving
+• analytical thinking
+• client counseling
+• communication
+
+Notable Achievement: Reviewed 171 contracts per month, flagging compliance risks that saved the company an estimated £343K.
+
+Education: M.Sc","We are a Magic Circle law firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Conduct legal research and prepare briefings
+• Draft, review and negotiate commercial contracts
+• Advise on regulatory and compliance matters
+• Support M&A due diligence processes
+
+Requirements:
+• legal writing
+• discovery
+• mergers and acquisitions
+• negotiation
+• legal research
+• client counseling
+• lexisnexis
+• persuasion
+• document review
+• corporate law
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,['client counseling'],"['legal writing', 'corporate law', 'legal research', 'negotiation', 'mergers and acquisitions', 'document review', 'persuasion', 'discovery', 'lexisnexis']","['deposition', 'communication']",0.143,0.075,14.4,Poor
+"Ravi Krishnan
+Nairobi, Kenya | Accountant
+
+EXPERIENCE (2 years)
+Accountant — Various Companies
+• strategic thinking
+• gaap
+• regulatory compliance
+• presentation skills
+• analytical thinking
+• stakeholder management
+• cost accounting
+• accounting
+• Led quarterly financial close process, reducing reporting time by 22%.
+
+EDUCATION
+B.Com — Birkbeck University
+
+SKILLS
+• strategic thinking
+• gaap
+• regulatory compliance
+• presentation skills
+• analytical thinking
+• stakeholder management
+• cost accounting
+• accounting","We are a financial services company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Support budgeting, forecasting and variance analysis
+• Prepare financial statements and management reports
+• Conduct risk assessments
+• Ensure regulatory compliance
+
+Requirements:
+• budgeting
+• forecasting
+• equity research
+• reconciliation
+• credit analysis
+• accounting
+• valuation
+• cost accounting
+• risk management
+• presentation skills
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['cost accounting', 'presentation skills', 'accounting']","['forecasting', 'budgeting', 'equity research', 'reconciliation']","['ifrs', 'gaap']",0.389,0.287,47.3,Moderate
+"Priya Sharma
+Chennai, India | Talent Acquisition Specialist
+
+EXPERIENCE (3 years)
+Talent Acquisition Specialist — Various Companies
+• succession planning
+• diversity and inclusion
+• compensation and benefits
+• job analysis
+• organizational skills
+• learning and development
+• employee engagement
+• communication
+• empathy
+• Reduced time-to-hire by 35% by redesigning the technical interview process.
+[Updated: see attached]
+
+EDUCATION
+M.Tech — IIT Madras
+
+SKILLS
+• succession planning
+• diversity and inclusion
+• compensation and benefits
+• job analysis
+• organizational skills
+• learning and development
+• employee engagement
+• communication
+• empathy","We are a professional services firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Lead full-cycle recruitment for assigned business units
+• Partner with managers on workforce planning
+• Administer compensation and benefits programmes
+• Manage employee relations and performance processes
+
+Requirements:
+• organizational skills
+• workforce planning
+• empathy
+• job analysis
+• performance management
+• onboarding
+• employee engagement
+• communication
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['communication', 'empathy', 'employee engagement', 'job analysis', 'organizational skills']",['workforce planning'],"['workday', 'recruiting']",0.944,0.621,75.9,Strong
+"Marcus Webb is a 7-year experienced Software Engineer based in London, UK. Throughout their career they have developed strong expertise in mongodb, machine learning, scikit-learn, django, aws, tensorflow, graphql, java, kubernetes, ci/cd. Built a real-time ML pipeline handling 100K daily requests. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are a leading fintech startup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Participate in code reviews and technical planning
+• Write clean, well-tested code
+• Mentor junior engineers
+• Collaborate with cross-functional teams on product features
+
+Requirements:
+• deep learning
+• tensorflow
+• javascript
+• ci/cd
+• numpy
+• scikit-learn
+• cross-functional collaboration
+• redis
+• machine learning
+• scrum
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['ci/cd', 'aws', 'tensorflow', 'scikit-learn', 'machine learning']","['agile', 'redis', 'scrum', 'javascript']","['kubernetes', 'fastapi', 'django']",0.488,0.385,42.9,Moderate
+"Aisha Patel | Nairobi, Kenya
+Role: Risk Manager | Experience: 11 years
+
+About: 11-year risk manager with expertise in risk management, financial modeling, forecasting, cost accounting, audit.
+
+Key Skills:
+• risk management
+• financial modeling
+• forecasting
+• cost accounting
+• audit
+• problem solving
+• budgeting
+• fixed income
+• regulatory compliance
+• learning and development
+
+Notable Achievement: Led quarterly financial close process, reducing reporting time by 15%.
+
+Education: B.E","We are a tech scaleup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Partner with managers on workforce planning
+• Manage employee relations and performance processes
+• Drive diversity and inclusion initiatives
+• Administer compensation and benefits programmes
+
+Requirements:
+• learning and development
+• compensation and benefits
+• diversity and inclusion
+• organizational development
+• communication
+• workforce planning
+• performance management
+• hris
+• organizational skills
+• succession planning
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,['learning and development'],"['compensation and benefits', 'diversity and inclusion', 'organizational development', 'communication', 'workforce planning', 'performance management', 'hris', 'organizational skills', 'succession planning']",[],0.02,0.045,5.5,Poor
+"James O'Brien is a 9-year experienced Compensation Analyst based in Sydney, Australia. Throughout their career they have developed strong expertise in organizational skills, performance management, workday, employee relations, workforce planning, employee engagement, conflict resolution, communication, discretion, background screening, bamboohr, job analysis. Reduced time-to-hire by 28% by redesigning the technical interview process.
+Available immediately. They hold a M.Sc degree and are known for delivering results in fast-paced environments.","We are a tech scaleup looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Partner with managers on workforce planning
+• Manage employee relations and performance processes
+• Lead full-cycle recruitment for assigned business units
+• Administer compensation and benefits programmes
+
+Requirements:
+• organizational skills
+• performance management
+• workday
+• employee relations
+• workforce planning
+• employee engagement
+• conflict resolution
+• communication
+• discretion
+• background screening
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['organizational skills', 'performance management', 'workday', 'employee relations', 'workforce planning', 'employee engagement', 'conflict resolution', 'communication', 'discretion', 'background screening', 'bamboohr', 'job analysis', 'onboarding']",[],[],0.537,0.861,96.0,Strong
+"Sarah Mitchell | Chicago, IL
+Role: HR Director | Experience: 11 years
+
+About: 11-year hr director with expertise in onboarding, compensation and benefits, job analysis.
+
+Key Skills:
+• onboarding
+• compensation and benefits
+• job analysis
+
+Notable Achievement: Reduced time-to-hire by 30% by redesigning the behavioural interview process.
+
+Education: B.A","We are a multinational corporation looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Administer compensation and benefits programmes
+• Manage employee relations and performance processes
+• Partner with managers on workforce planning
+• Lead full-cycle recruitment for assigned business units
+
+Requirements:
+• diversity and inclusion
+• payroll
+• background screening
+• performance management
+• organizational skills
+• empathy
+• stakeholder management
+• labor law
+• talent acquisition
+• strategic thinking
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,[],"['talent acquisition', 'payroll', 'organizational skills', 'performance management', 'empathy', 'workforce planning', 'stakeholder management', 'strategic thinking', 'conflict resolution', 'employee relations', 'labor law', 'diversity and inclusion', 'background screening']","['organizational development', 'workday']",0.08,0.023,7.2,Poor
+"Marcus Webb is a 1-year experienced Instructional Designer based in London, UK. Throughout their career they have developed strong expertise in education technology, e-learning, curriculum development, creativity, patience, special education, lms, differentiated instruction, blackboard, data-driven instruction. Developed project-based curriculum adopted across 6 schools, improving test scores by 18%. They hold a B.A degree and are known for delivering results in fast-paced environments.","We are a secondary school looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Communicate regularly with parents and guardians
+• Contribute to school-wide improvement initiatives
+• Assess student progress and adapt instruction
+• Plan and deliver engaging lessons aligned to curriculum
+
+Requirements:
+• bloom's taxonomy
+• blackboard
+• formative assessment
+• google classroom
+• special education
+• curriculum development
+• lms
+• cultural sensitivity
+• stem education
+• creativity
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['lms', 'blackboard', 'curriculum development', 'creativity', 'special education']","['canvas', ""bloom's taxonomy"", 'cultural sensitivity']",['iep development'],0.491,0.421,44.0,Moderate
+"James O'Brien | Singapore
+Role: Healthcare Analyst | Experience: 9 years
+
+About: 9-year healthcare analyst with expertise in diagnostic imaging, documentation, cpt coding, patient monitoring, attention to detail.
+
+Key Skills:
+• diagnostic imaging
+• documentation
+• cpt coding
+• patient monitoring
+• attention to detail
+• hipaa compliance
+• phlebotomy
+• infection control
+• telemedicine
+• teamwork
+• laboratory procedures
+• medical terminology
+
+Notable Achievement: Managed a caseload of 30 patients per shift, achieving 97% patient satisfaction scores.
+[Updated: see attached]
+
+Education: B.Com","We are a high-growth B2B SaaS company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Build and manage client relationships
+• Meet and exceed quarterly targets
+• Develop and execute sales strategies
+
+Requirements:
+• persuasion
+• social media marketing
+• active listening
+• resilience
+• b2c sales
+• salesforce
+• market research
+• pipeline management
+• adaptability
+• crm
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,['pipeline management'],"['persuasion', 'social media marketing', 'active listening', 'resilience', 'b2c sales', 'salesforce', 'market research', 'adaptability', 'crm', 'email marketing', 'lead generation', 'b2b sales']",[],0.062,0.044,6.1,Poor
+"Fatima Al-Hassan is a 10-year experienced Healthcare Analyst based in Sydney, Australia. Throughout their career they have developed strong expertise in icd-10, cpt coding, medical terminology, phlebotomy, patient monitoring, electronic health records, discharge planning, triage. Managed a caseload of 36 patients per shift, achieving 98% patient satisfaction scores. They hold a M.Tech degree and are known for delivering results in fast-paced environments.","We are a multi-specialty hospital looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Administer medications and treatments per protocols
+• Coordinate with multidisciplinary care teams
+• Maintain accurate patient records
+• Provide direct patient care and clinical assessments
+
+Requirements:
+• discharge planning
+• icd-10
+• phlebotomy
+• attention to detail
+• cpt coding
+• clinical assessment
+• hipaa compliance
+• triage
+• stress management
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['phlebotomy', 'triage', 'discharge planning', 'icd-10', 'cpt coding']","['hipaa compliance', 'attention to detail', 'clinical assessment', 'stress management']","['communication', 'laboratory procedures', 'patient care']",0.656,0.562,54.1,Moderate
+"Elena Popescu is a 5-year experienced Growth Hacker based in London, UK. Throughout their career they have developed strong expertise in revenue forecasting, relationship building, communication, sem. Grew pipeline by 39% YoY through targeted digital campaigns. They hold a B.E degree and are known for delivering results in fast-paced environments.","We are a leading retail brand looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Collaborate with marketing on campaigns
+• Build and manage client relationships
+• Develop and execute sales strategies
+
+Requirements:
+• lead generation
+• crm
+• pipeline management
+• salesforce
+• sales strategy
+• digital marketing
+• b2b sales
+• active listening
+• communication
+• social media marketing
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,['communication'],"['b2b sales', 'brand management', 'social media marketing', 'lead generation', 'digital marketing', 'sales strategy', 'crm', 'salesforce', 'active listening', 'pipeline management']","['b2c sales', 'persuasion']",0.185,0.096,11.8,Poor
+"Fatima Al-Hassan | Chicago, IL
+Role: Project Manager | Experience: 5 years
+
+About: 5-year project manager with expertise in scheduling, bim, procurement, osha, negotiation.
+
+Key Skills:
+• scheduling
+• bim
+• procurement
+• osha
+• negotiation
+• team coordination
+
+Notable Achievement: Delivered commercial project on time and 7% under budget.
+
+Education: B.Sc","We are a property development company looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Coordinate subcontractors and site teams
+• Prepare progress reports for stakeholders
+• Monitor budgets, schedules and quality
+• Manage project delivery from planning to handover
+
+Requirements:
+• ms project
+• scheduling
+• site management
+• contract management
+• procurement
+• leadership
+• time management
+• structural analysis
+• mechanical systems
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",construction,"['procurement', 'scheduling']","['site management', 'contract management', 'ms project', 'time management']","['attention to detail', 'revit', 'primavera']",0.384,0.245,35.2,Moderate
+"Ravi Krishnan | Singapore
+Role: Associate Attorney | Experience: 7 years
+
+About: 7-year associate attorney with expertise in employment law, attention to detail, discretion, analytical thinking, mergers and acquisitions.
+
+Key Skills:
+• employment law
+• attention to detail
+• discretion
+• analytical thinking
+• mergers and acquisitions
+• litigation support
+• negotiation
+• corporate law
+• lexisnexis
+• communication
+• gdpr
+• intellectual property
+
+Notable Achievement: Reviewed 172 contracts per month, flagging compliance risks that saved the company an estimated £458K.
+[Updated: see attached]
+
+Education: Ph.D","We are a compliance-focused financial institution looking for a Senior professional to join our team.
+
+Responsibilities:
+• Support M&A due diligence processes
+• Manage external counsel relationships
+• Advise on regulatory and compliance matters
+• Draft, review and negotiate commercial contracts
+
+Requirements:
+• contract review
+• lexisnexis
+• analytical thinking
+• gdpr
+• negotiation
+• discretion
+• intellectual property
+• mergers and acquisitions
+• communication
+• employment law
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",legal,"['employment law', 'document review', 'mergers and acquisitions', 'communication', 'corporate law', 'gdpr', 'lexisnexis', 'negotiation', 'discretion', 'analytical thinking', 'intellectual property']",['contract review'],"['legal research', 'litigation support']",0.963,0.93,77.6,Strong
+"Carlos Ruiz is a 4-year experienced Instructional Designer based in Sydney, Australia. Throughout their career they have developed strong expertise in iep development, organization, special education, adaptability, mentoring, canvas, lesson planning, bloom's taxonomy. Developed project-based curriculum adopted across 4 schools, improving test scores by 14%. They hold a Ph.D degree and are known for delivering results in fast-paced environments.","We are a secondary school looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Communicate regularly with parents and guardians
+• Plan and deliver engaging lessons aligned to curriculum
+• Assess student progress and adapt instruction
+• Contribute to school-wide improvement initiatives
+
+Requirements:
+• e-learning
+• google classroom
+• iep development
+• patience
+• bloom's taxonomy
+• adaptability
+• special education
+• formative assessment
+• organization
+• canvas
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['special education', 'canvas', 'adaptability', ""bloom's taxonomy"", 'organization', 'iep development']","['e-learning', 'formative assessment']",['summative assessment'],0.607,0.529,52.3,Moderate
+"Aisha Patel
+Sydney, Australia | Quality Engineer
+
+EXPERIENCE (7 years)
+Quality Engineer — Various Companies
+• kaizen
+• continuous improvement mindset
+• process improvement
+• autocad
+• warehouse management
+• supply chain
+• Implemented lean initiative reducing waste by 11% and improving OEE from 63% to 86%.
+
+EDUCATION
+B.E — Birkbeck University
+
+SKILLS
+• kaizen
+• continuous improvement mindset
+• process improvement
+• autocad
+• warehouse management
+• supply chain","We are a Tier-1 automotive supplier looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Drive continuous improvement initiatives
+• Oversee production operations and quality standards
+• Ensure health and safety compliance
+• Analyse production data and report KPIs
+
+Requirements:
+• lean manufacturing
+• attention to detail
+• inventory management
+• quality control
+• preventive maintenance
+• iso 9001
+• bom management
+• cnc machining
+• statistical process control
+• process improvement
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",manufacturing,['process improvement'],"['cnc machining', 'preventive maintenance', 'lean manufacturing', 'attention to detail', 'six sigma', 'erp', 'bom management', 'sap', 'statistical process control', 'quality control', 'iso 9001', 'inventory management']","['warehouse management', 'autocad']",0.126,0.094,9.4,Poor
+"James O'Brien
+Toronto, Canada | Medical Coder
+
+EXPERIENCE (8 years)
+Medical Coder — Various Companies
+• critical thinking
+• hipaa compliance
+• patient care
+• clinical assessment
+• teamwork
+• care coordination
+• triage
+• Managed a caseload of 30 patients per shift, achieving 97% patient satisfaction scores.
+
+EDUCATION
+B.Com — University of Toronto
+
+SKILLS
+• critical thinking
+• hipaa compliance
+• patient care
+• clinical assessment
+• teamwork
+• care coordination
+• triage","We are a community health centre looking for a Senior professional to join our team.
+
+Responsibilities:
+• Coordinate with multidisciplinary care teams
+• Maintain accurate patient records
+• Administer medications and treatments per protocols
+• Ensure compliance with healthcare regulations
+
+Requirements:
+• patient education
+• teamwork
+• patient care
+• laboratory procedures
+• care coordination
+• diagnostic imaging
+• cpt coding
+• clinical assessment
+• vital signs
+• documentation
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",healthcare,"['patient care', 'care coordination', 'clinical assessment', 'triage', 'teamwork']","['patient education', 'cpt coding', 'documentation', 'laboratory procedures', 'diagnostic imaging']","['medication administration', 'icd-10', 'infection control']",0.486,0.379,45.2,Moderate
+"Ravi Krishnan
+Singapore | High School Teacher
+
+EXPERIENCE (2 years)
+High School Teacher — Various Companies
+• classroom management
+• student assessment
+• formative assessment
+• curriculum development
+• blackboard
+• education technology
+• communication
+• Developed STEM curriculum adopted across 7 schools, improving test scores by 19%.
+
+EDUCATION
+B.Sc — IIT Madras
+
+SKILLS
+• classroom management
+• student assessment
+• formative assessment
+• curriculum development
+• blackboard
+• education technology
+• communication","We are an EdTech company looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Plan and deliver engaging lessons aligned to curriculum
+• Assess student progress and adapt instruction
+• Maintain accurate records and documentation
+• Contribute to school-wide improvement initiatives
+
+Requirements:
+• google classroom
+• e-learning
+• empathy
+• adaptability
+• instructional design
+• student assessment
+• communication
+• differentiated instruction
+• blackboard
+• formative assessment
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",education,"['blackboard', 'communication', 'student assessment', 'formative assessment']","['instructional design', 'differentiated instruction']",['lesson planning'],0.425,0.394,41.2,Moderate
+"David Kim
+London, UK | Operations Lead
+
+EXPERIENCE (10 years)
+Operations Lead — Various Companies
+• fleet management
+• last mile delivery
+• customs clearance
+• cold chain
+• hazmat handling
+• warehouse operations
+• oracle
+• adaptability
+• route optimization
+• procurement
+• demand forecasting
+• Optimised delivery routes reducing fuel costs by 24% and improving on-time delivery to 92%.
+
+EDUCATION
+B.Com — University of Delhi
+
+SKILLS
+• fleet management
+• last mile delivery
+• customs clearance
+• cold chain
+• hazmat handling
+• warehouse operations
+• oracle
+• adaptability
+• route optimization
+• procurement
+• demand forecasting","We are an e-commerce fulfilment company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Resolve supply chain disruptions
+• Optimise transportation routes and costs
+• Coordinate with 3PL providers
+• Monitor inventory levels and demand forecasts
+
+Requirements:
+• warehouse operations
+• route optimization
+• erp
+• customs clearance
+• inventory control
+• coordination
+• fleet management
+• demand forecasting
+• procurement
+• cold chain
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['fleet management', 'demand forecasting', 'procurement', 'cold chain', 'customs clearance', 'warehouse operations', 'adaptability', 'oracle', 'route optimization']",['erp'],['supply chain management'],0.955,0.753,88.8,Strong
+"Elena Popescu is a 5-year experienced Sales Executive based in Berlin, Germany. Throughout their career they have developed strong expertise in b2c sales, b2b sales, revenue forecasting, google analytics, relationship building, a/b testing, product marketing, sql. Grew pipeline by 38% YoY through targeted outbound campaigns. They hold a B.A degree and are known for delivering results in fast-paced environments.","We are a financial services company looking for a Senior professional to join our team.
+
+Responsibilities:
+• Collaborate with business units on financial planning
+• Ensure regulatory compliance
+• Support budgeting, forecasting and variance analysis
+• Prepare financial statements and management reports
+
+Requirements:
+• p&l management
+• stakeholder management
+• credit analysis
+• accounting
+• ifrs
+• strategic thinking
+• valuation
+• audit
+• portfolio management
+• sql
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,['sql'],"['p&l management', 'stakeholder management', 'credit analysis', 'accounting', 'ifrs', 'strategic thinking', 'valuation', 'audit', 'portfolio management']",[],0.088,0.019,2.8,Poor
+"Aisha Patel
+Singapore | Sales Executive
+
+EXPERIENCE (5 years)
+Sales Executive — Various Companies
+• customer success
+• pipeline management
+• sem
+• crm
+• sales strategy
+• active listening
+• goal-oriented
+• lead generation
+• google analytics
+• a/b testing
+• relationship building
+• resilience
+• Grew revenue by 33% YoY through targeted outbound campaigns.
+
+EDUCATION
+M.Sc — Birkbeck University
+
+SKILLS
+• customer success
+• pipeline management
+• sem
+• crm
+• sales strategy
+• active listening
+• goal-oriented
+• lead generation
+• google analytics
+• a/b testing
+• relationship building
+• resilience","We are a digital agency looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Build and manage client relationships
+• Develop and execute sales strategies
+• Track pipeline and forecast revenue
+• Collaborate with marketing on campaigns
+
+Requirements:
+• customer success
+• pipeline management
+• sem
+• crm
+• sales strategy
+• active listening
+• goal-oriented
+• lead generation
+• google analytics
+• a/b testing
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['customer success', 'pipeline management', 'sem', 'crm', 'sales strategy', 'active listening', 'goal-oriented', 'lead generation', 'google analytics', 'a/b testing', 'relationship building', 'resilience', 'negotiation']",[],[],0.572,0.871,96.0,Strong
+"Fatima Al-Hassan
+Berlin, Germany | Financial Analyst
+
+EXPERIENCE (12 years)
+Financial Analyst — Various Companies
+• forecasting
+• gaap
+• derivatives
+• analytical thinking
+• variance analysis
+• financial modeling
+• risk management
+• dcf analysis
+• budgeting
+• problem solving
+• fixed income
+• reconciliation
+• Led annual financial close process, reducing reporting time by 37%.
+
+EDUCATION
+B.A — University of Toronto
+
+SKILLS
+• forecasting
+• gaap
+• derivatives
+• analytical thinking
+• variance analysis
+• financial modeling
+• risk management
+• dcf analysis
+• budgeting
+• problem solving
+• fixed income
+• reconciliation","We are a boutique advisory firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Ensure regulatory compliance
+• Collaborate with business units on financial planning
+• Support budgeting, forecasting and variance analysis
+• Prepare financial statements and management reports
+
+Requirements:
+• cost accounting
+• reconciliation
+• risk management
+• financial modeling
+• accounting
+• portfolio management
+• derivatives
+• excel
+• forecasting
+• sql
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['risk management', 'derivatives', 'problem solving', 'reconciliation', 'financial modeling', 'forecasting']","['portfolio management', 'excel']","['stakeholder management', 'gaap', 'fixed income']",0.695,0.556,56.7,Moderate
+"Aisha Patel | Chicago, IL
+Role: HR Business Partner | Experience: 7 years
+
+About: 7-year hr business partner with expertise in bamboohr, compensation and benefits, recruiting, hris, organizational skills.
+
+Key Skills:
+• bamboohr
+• compensation and benefits
+• recruiting
+• hris
+• organizational skills
+• discretion
+• organizational development
+• learning and development
+• empathy
+
+Notable Achievement: Reduced time-to-hire by 29% by redesigning the behavioural interview process.
+
+Education: M.Tech","We are a professional services firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Partner with managers on workforce planning
+• Manage employee relations and performance processes
+• Drive diversity and inclusion initiatives
+• Administer compensation and benefits programmes
+
+Requirements:
+• recruiting
+• performance management
+• organizational skills
+• hris
+• compliance
+• learning and development
+• workforce planning
+• organizational development
+• stakeholder management
+• discretion
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['compensation and benefits', 'organizational skills', 'learning and development', 'recruiting', 'organizational development', 'hris', 'discretion']",['compliance'],"['payroll', 'strategic thinking', 'succession planning']",0.892,0.661,84.8,Strong
+"Mei Lin
+Chennai, India | People Operations Manager
+
+EXPERIENCE (8 years)
+People Operations Manager — Various Companies
+• talent acquisition
+• strategic thinking
+• workforce planning
+• payroll
+• empathy
+• Reduced time-to-hire by 32% by redesigning the technical interview process.
+Ref: 5937/HR
+
+EDUCATION
+M.Sc — University of Toronto
+
+SKILLS
+• talent acquisition
+• strategic thinking
+• workforce planning
+• payroll
+• empathy","We are a multinational corporation looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Administer compensation and benefits programmes
+• Lead full-cycle recruitment for assigned business units
+• Partner with managers on workforce planning
+• Drive diversity and inclusion initiatives
+
+Requirements:
+• discretion
+• payroll
+• talent acquisition
+• employee engagement
+• labor law
+• conflict resolution
+• communication
+• organizational development
+• job analysis
+• recruiting
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['payroll', 'talent acquisition']","['organizational skills', 'hris', 'discretion', 'organizational development', 'recruiting', 'employee engagement', 'communication', 'labor law', 'conflict resolution', 'job analysis']",[],0.139,0.181,14.6,Poor
+"Carlos Ruiz
+Toronto, Canada | Backend Developer
+
+EXPERIENCE (7 years)
+Backend Developer — Various Companies
+• scrum
+• code review
+• typescript
+• python
+• cross-functional collaboration
+• postgresql
+• Built a scalable microservices platform handling 10K daily requests.
+
+EDUCATION
+B.E — Anna University
+
+SKILLS
+• scrum
+• code review
+• typescript
+• python
+• cross-functional collaboration
+• postgresql","We are a leading fintech startup looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Mentor junior engineers
+• Design and implement scalable software systems
+• Write clean, well-tested code
+• Participate in code reviews and technical planning
+
+Requirements:
+• mongodb
+• microservices
+• typescript
+• mentoring
+• agile
+• rust
+• scrum
+• postgresql
+• gcp
+• code review
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['postgresql', 'typescript', 'scrum', 'code review']","['mentoring', 'agile', 'microservices']","['go', 'scikit-learn', 'machine learning']",0.435,0.387,41.7,Moderate
+"Mei Lin
+Singapore | Sales Executive
+
+EXPERIENCE (7 years)
+Sales Executive — Various Companies
+• goal-oriented
+• creativity
+• cold calling
+• b2c sales
+• google analytics
+• market research
+• negotiation
+• pipeline management
+• customer success
+• adaptability
+• communication
+• sem
+• Grew pipeline by 54% YoY through targeted digital campaigns.
+
+EDUCATION
+B.E — University of Delhi
+
+SKILLS
+• goal-oriented
+• creativity
+• cold calling
+• b2c sales
+• google analytics
+• market research
+• negotiation
+• pipeline management
+• customer success
+• adaptability
+• communication
+• sem","We are a leading retail brand looking for a Entry-level professional to join our team.
+
+Responsibilities:
+• Track pipeline and forecast revenue
+• Build and manage client relationships
+• Meet and exceed quarterly targets
+• Develop and execute sales strategies
+
+Requirements:
+• negotiation
+• pipeline management
+• churn reduction
+• customer success
+• adaptability
+• market research
+• active listening
+• communication
+• b2c sales
+• sem
+• 1–3 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",sales_marketing,"['pipeline management', 'sem', 'customer success', 'churn reduction', 'market research', 'adaptability', 'negotiation', 'b2c sales', 'communication']",['active listening'],"['revenue forecasting', 'google analytics', 'salesforce']",0.915,0.816,76.7,Strong
+"Marcus Webb
+Berlin, Germany | ML Engineer
+
+EXPERIENCE (12 years)
+ML Engineer — Various Companies
+• scrum
+• problem solving
+• mlops
+• tensorflow
+• azure
+• java
+• react
+• gcp
+• mentoring
+• ci/cd
+• Built a scalable microservices platform handling 10K daily requests.
+
+EDUCATION
+B.Com — TU Berlin
+
+SKILLS
+• scrum
+• problem solving
+• mlops
+• tensorflow
+• azure
+• java
+• react
+• gcp
+• mentoring
+• ci/cd","We are a leading fintech startup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Mentor junior engineers
+• Participate in code reviews and technical planning
+• Design and implement scalable software systems
+• Collaborate with cross-functional teams on product features
+
+Requirements:
+• problem solving
+• azure
+• rest api
+• java
+• sql
+• ci/cd
+• aws
+• react
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",tech,"['azure', 'ci/cd', 'java', 'problem solving', 'react']",[],['nlp'],0.824,0.601,81.5,Strong
+"Elena Popescu
+Singapore | Procurement Officer
+
+EXPERIENCE (6 years)
+Procurement Officer — Various Companies
+• attention to detail
+• 3pl coordination
+• negotiation
+• communication
+• vendor management
+• erp
+• adaptability
+• freight forwarding
+• last mile delivery
+• sap
+• cold chain
+• inventory control
+• Optimised delivery routes reducing fuel costs by 22% and improving on-time delivery to 95%.
+
+EDUCATION
+M.Tech — Birkbeck University
+
+SKILLS
+• attention to detail
+• 3pl coordination
+• negotiation
+• communication
+• vendor management
+• erp
+• adaptability
+• freight forwarding
+• last mile delivery
+• sap
+• cold chain
+• inventory control","We are a freight forwarding firm looking for a Mid-level professional to join our team.
+
+Responsibilities:
+• Optimise transportation routes and costs
+• Manage end-to-end supply chain operations
+• Resolve supply chain disruptions
+• Monitor inventory levels and demand forecasts
+
+Requirements:
+• attention to detail
+• 3pl coordination
+• negotiation
+• communication
+• vendor management
+• erp
+• adaptability
+• freight forwarding
+• last mile delivery
+• sap
+• 3–6 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",logistics,"['attention to detail', '3pl coordination', 'negotiation', 'communication', 'vendor management', 'erp', 'adaptability', 'freight forwarding', 'last mile delivery', 'sap', 'cold chain', 'inventory control', 'demand forecasting', 'route optimization']",[],[],0.621,0.938,96.0,Strong
+"Marcus Webb is a 5-year experienced Financial Analyst based in Singapore. Throughout their career they have developed strong expertise in accounting, stakeholder management, forecasting, cost accounting, dcf analysis, quickbooks, budgeting, financial analysis, p&l management, portfolio management. Led annual financial close process, reducing reporting time by 37%. They hold a MBA degree and are known for delivering results in fast-paced environments.","We are a boutique advisory firm looking for a Senior professional to join our team.
+
+Responsibilities:
+• Support budgeting, forecasting and variance analysis
+• Conduct risk assessments
+• Prepare financial statements and management reports
+• Ensure regulatory compliance
+
+Requirements:
+• fixed income
+• quickbooks
+• cost accounting
+• accounting
+• stakeholder management
+• audit
+• reconciliation
+• excel
+• forecasting
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",finance,"['cost accounting', 'forecasting', 'accounting', 'stakeholder management', 'quickbooks']",['reconciliation'],"['budgeting', 'derivatives', 'problem solving', 'financial modeling']",0.883,0.562,80.6,Strong
+"Sarah Mitchell is a 8-year experienced Talent Acquisition Specialist based in Nairobi, Kenya. Throughout their career they have developed strong expertise in hris, talent acquisition, compensation and benefits, discretion, workday, employee engagement, exit interviews, performance management. Reduced time-to-hire by 29% by redesigning the behavioural interview process. They hold a B.Sc degree and are known for delivering results in fast-paced environments.","We are a tech scaleup looking for a Senior professional to join our team.
+
+Responsibilities:
+• Administer compensation and benefits programmes
+• Partner with managers on workforce planning
+• Manage employee relations and performance processes
+• Drive diversity and inclusion initiatives
+
+Requirements:
+• workday
+• strategic thinking
+• discretion
+• performance management
+• hris
+• talent acquisition
+• workforce planning
+• employee engagement
+• 6–12 years of relevant experience
+• Strong communication and teamwork skills
+• Degree in a relevant field",hr,"['workday', 'performance management', 'talent acquisition', 'discretion', 'employee engagement', 'hris']",[],"['onboarding', 'compensation and benefits', 'recruiting']",0.873,0.721,72.2,Strong

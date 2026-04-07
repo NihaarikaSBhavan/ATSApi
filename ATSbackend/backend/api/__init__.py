@@ -34,8 +34,11 @@ def create_app() -> FastAPI:
 
     @app.on_event("startup")
     async def startup_event():
-        """Pre-load embedder and skill extractor. No model file needed."""
-        logger.info("ATS Engine starting up (continuous probabilistic scorer v3)...")
+        logger.info("ATS Engine starting up...")
+        # Load models in background so port binds immediately
+        asyncio.create_task(_load_models())
+
+    async def _load_models():
         logger.info("Pre-loading SentenceTransformer embedder...")
         await asyncio.to_thread(preload_embedder)
         logger.info("Embedder ready.")

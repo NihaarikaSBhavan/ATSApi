@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ATSv4</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">ATSv4</p>
+      <h1>LLM-guided resume scoring with semantic and keyword evidence.</h1>
+      <p class="lede">Paste a resume and job description to evaluate hiring potential against the role.</p>
+    </section>
+
+    <section class="panel">
+      <label for="resumeText">Resume</label>
+      <textarea id="resumeText" placeholder="Paste resume text here"></textarea>
+
+      <label for="jobText">Job Description</label>
+      <textarea id="jobText" placeholder="Paste job description here"></textarea>
+
+      <button id="analyzeButton" type="button">Analyze Match</button>
+      <pre id="resultBox">Result will appear here...</pre>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

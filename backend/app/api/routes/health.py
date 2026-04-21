@@ -1,0 +1,14 @@
+from __future__ import annotations
+
+from fastapi import APIRouter
+
+router = APIRouter(tags=["health"])
+
+
+@router.get(
+    "/health",
+    summary="Health",
+    description='Liveness check that returns {"status":"ok"}.',
+)
+def health_check() -> dict[str, str]:
+    return {"status": "ok"}

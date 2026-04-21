@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "atsv4"
+version = "0.1.0"
+description = "LLM-guided ATS scorer grounded by semantic similarity and keyword matching."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "OpenAI Codex" }
+]
+dependencies = [
+  "rapidfuzz>=3.9.0",
+  "fastapi>=0.115.0",
+  "uvicorn[standard]>=0.30.0",
+  "python-dotenv>=1.0.1",
+  "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+nlp = [
+  "sentence-transformers>=2.7.0",
+  "scikit-learn>=1.4.0",
+  "numpy>=1.26.0,<2.0.0",
+  "keybert>=0.8.4",
+]
+docs = [
+  "PyMuPDF>=1.24.0",
+  "pdfplumber>=0.11.0",
+  "python-docx>=1.1.0",
+]
+llm = [
+  "openai>=1.35.0",
+]
+dev = [
+  "pytest>=8.2.0",
+]
+
+[project.scripts]
+atsv4 = "atsv4.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

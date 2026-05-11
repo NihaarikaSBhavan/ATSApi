@@ -3,17 +3,19 @@
 ATSv4 is an LLM-guided applicant tracking scorer grounded by two evidence tracks, with a separated backend, frontend, and service layer:
 
 - Semantic similarity with sentence-transformer embeddings
-- Keyword analysis with phrase extraction plus fuzzy matching
+- **Skill graph matching** with Groq-powered extraction, in-memory graph construction, and graph-aware fuzzy matching
+- Keyword analysis with KeyBERT extraction plus RapidFuzz matching (fallback)
 
-The evaluation path structures job descriptions, evaluates matched/missed/inferred skills, estimates hiring potential for an admin portal, assigns a candidate grade, and blends that grade with semantic similarity and keyword coverage to produce the final numerical score.
+The evaluation path structures job descriptions, evaluates matched/missed/inferred skills via graph traversal, estimates hiring potential for an admin portal, assigns a candidate grade, and blends that grade with semantic similarity and skill coverage to produce the final numerical score.
 
 ## Features
 
 - PDF and DOCX resume ingestion with graceful fallbacks
 - Resume section detection with fuzzy header matching
 - Section-level semantic scoring to avoid full-document truncation issues
-- JD keyword extraction and RapidFuzz matching
-- Hybrid LLM scoring with semantic and keyword evidence
+- **Groq-powered skill extraction and graph-based matching** with domain detection and relationship inference
+- JD keyword extraction and RapidFuzz matching (fallback when API unavailable)
+- Hybrid LLM scoring with semantic and skill graph evidence
 - OpenAI-compatible JD structuring and resume feedback generation
 - FastAPI backend with API routes
 - Service layer that wraps the ATS engine

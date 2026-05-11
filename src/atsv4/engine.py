@@ -4,7 +4,7 @@ from pathlib import Path
 
 from .config import ATSConfig
 from .grading import to_grade, to_percentage
-from .keywords import extract_keywords, fuzzy_match_keywords
+from .skill_graph_matcher import extract_and_match as skill_graph_extract_and_match
 from .llm import evaluate_candidate, structure_job_description
 from .models import ATSResult
 from .parsers import parse_document, parse_text_document
@@ -22,7 +22,7 @@ class ATSEngine:
         resume_path: str | Path,
         job_path: str | Path,
         *,
-        use_llm: bool = False,
+        use_llm: bool = True,
     ) -> ATSResult:
         resume_doc = parse_document(resume_path)
         job_doc = parse_document(job_path)
@@ -37,7 +37,7 @@ class ATSEngine:
         resume_text: str,
         job_text: str,
         *,
-        use_llm: bool = False,
+        use_llm: bool = True,
     ) -> ATSResult:
         resume_doc = parse_text_document(resume_text, source_name="resume_text")
         job_doc = parse_text_document(job_text, source_name="job_text")
@@ -62,20 +62,21 @@ class ATSEngine:
             self.config,
         )
 
-        job_keywords = extract_keywords(
-            job_doc.raw_text,
-            self.config,
-            top_n=self.config.jd_top_keywords,
-        )
-        resume_keywords = extract_keywords(
-            resume_doc.raw_text,
-            self.config,
-            top_n=self.config.resume_top_keywords,
-        )
-        keyword_matches, missing_keywords, keyword_coverage = fuzzy_match_keywords(
+        # ── Skill extraction & matching (skill_graph pipeline) ──────────────
+        # Groq-powered two-stage extraction → in-memory graph construction →
+        # exact / fuzzy / traversal matching → level-weighted coverage.
+        # Falls back to KeyBERT + rapidfuzz automatically when no Groq key.
+        (
+            keyword_matches,
+            missing_keywords,
+            keyword_coverage,
             job_keywords,
             resume_keywords,
-            threshold=self.config.fuzzy_match_threshold,
+            graph_context,
+        ) = skill_graph_extract_and_match(
+            job_doc.raw_text,
+            resume_doc.raw_text,
+            self.config,
         )
 
         completeness = section_completeness_score(resume_doc.sections)
@@ -104,6 +105,7 @@ class ATSEngine:
                 resume_doc.sections,
                 result,
                 self.config,
+                graph_context=graph_context,
             )
             result.score = evaluation.score
             result.grade = evaluation.grade

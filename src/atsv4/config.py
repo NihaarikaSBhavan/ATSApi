@@ -40,6 +40,18 @@ class ATSConfig:
     llm_base_url: str | None = field(
         default_factory=lambda: os.getenv("LLM_BASE_URL") or os.getenv("OPENAI_BASE_URL")
     )
+    # Groq API key used by the skill_graph extraction pipeline.
+    # Falls back to llm_api_key so a single key works when using Groq for both.
+    groq_api_key: str | None = field(
+        default_factory=lambda: os.getenv("GROQ_API_KEY")
+        or os.getenv("GROK_API_KEY")
+        or os.getenv("LLM_API_KEY")
+    )
+    # When True, use the skill_graph Groq-powered extractor instead of KeyBERT.
+    # Automatically falls back to KeyBERT if the key is absent or extraction fails.
+    use_skill_graph: bool = field(
+        default_factory=lambda: os.getenv("ATS_USE_SKILL_GRAPH", "true").lower() not in ("false", "0", "no")
+    )
 
     def validate(self) -> None:
         total_weight = self.semantic_weight + self.keyword_weight + self.completeness_weight
@@ -51,3 +63,4 @@ class ATSConfig:
             raise ValueError(
                 f"Semantic section weights must sum to 1.0, got {section_weight_total}"
             )
+

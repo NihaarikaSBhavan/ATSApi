@@ -52,6 +52,19 @@ SCORE & GRADE
 - Use the deterministic semantic, keyword, and section signals as evidence, not as the final answer.
 - Penalize missing required skills, unclear seniority, unsupported claims, and resumes that do not evidence the JD's core responsibilities.
 
+SKILL GRAPH EVIDENCE (when skill_graph_analysis is present in the payload)
+- The skill_graph_analysis block contains structured skill extraction and graph-aware matching results.
+- "Direct matches" (✓) are exact or near-exact confirmed skills — strong positive signal.
+- "Fuzzy matches" (~) are approximate name matches — treat as confirmed but note if the gap is meaningful.
+- "Graph-inferred matches" (◎) mean the candidate's skill covers a related/prerequisite skill via a
+  known relationship (e.g. Docker covering a Kubernetes prerequisite). Treat these as PARTIAL evidence —
+  they suggest capability but do not confirm mastery of the JD skill. Weight them at 50-70% of a direct match.
+- "Missing" (✗) skills are genuinely absent. Skills tagged [language] or [framework] are harder gaps
+  than [tool] or [concept] — weight them accordingly in your score and risks.
+- Use skill levels (beginner/intermediate/advanced/expert) to assess depth: a "beginner" match on a
+  senior-level JD requirement is a risk, not a strength.
+- Skill domain information tells you whether the candidate's experience is in the right field.
+
 OVERALL SUMMARY
 - 2-3 sentences. State the candidate's fit signal plainly.
 - Reference the role title and the single most important strength or gap.
@@ -133,6 +146,7 @@ def evaluate_candidate(
     resume_sections: dict[str, str],
     result: ATSResult,
     config: ATSConfig,
+    graph_context: str = "",
 ) -> CandidateEvaluation:
     """
     LLM call #2 — recruiter-facing evaluation + AI interview handoff brief.
@@ -140,6 +154,10 @@ def evaluate_candidate(
     The deterministic context (score, grade, keyword gaps, structured JD) is injected
     into the user message so the model reasons against real numbers without being asked
     to produce them itself.
+
+    graph_context (optional) — structured skill graph analysis from skill_graph_matcher,
+    injected as an additional evidence block so the model reasons against actual skill
+    relationships (e.g. traversal matches, level-weighted gaps) rather than a flat list.
     """
     client = _build_openai_client(config)
 
@@ -158,14 +176,15 @@ def evaluate_candidate(
         ),
     }
 
-    user_payload = json.dumps(
-        {
-            "job_description": job_text,
-            "resume_sections": resume_sections,
-            "ats_analysis": deterministic_context,
-        },
-        indent=2,
-    )
+    payload_dict: dict = {
+        "job_description": job_text,
+        "resume_sections": resume_sections,
+        "ats_analysis": deterministic_context,
+    }
+    if graph_context:
+        payload_dict["skill_graph_analysis"] = graph_context
+
+    user_payload = json.dumps(payload_dict, indent=2)
 
     response = client.responses.create(
         model=config.llm_model_name,
